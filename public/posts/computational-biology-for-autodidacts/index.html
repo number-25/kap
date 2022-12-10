@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+
+<title>Computational Biology for Autodidacts | Kobe and Pascal</title>
+
+<link rel="stylesheet" href="https://number-25.github.io//css/styles.css">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" 
+integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/zenburn.min.css" crossorigin="anonymous" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<script src="https://number-25.github.io//js/highlight.js"></script>
+
+
+
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.jssocials/1.4.0/jssocials.css" />
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.jssocials/1.4.0/jssocials-theme-minima.css" />
+<script type="text/javascript" src="https://number-25.github.io//js/jssocials.js"></script>
+
+
+
+
+<div class="container">
+    <nav class="navbar level">
+      <div class="navbar-brand">
+          <a class="nav-item" href="https://number-25.github.io/"><h1 class="title is-3">Kobe and Pascal</h1></a>
+      </div>           
+      <div class="navbar-menu has-text-centered is-active">
+          <div class="navbar-end is-centered">
+              
+                <a href="https://number-25.github.io/about" rel="me">
+                  <span class="icon">
+                    <i class="fas fa-info"></i>
+                  </span>
+                </a>
+              
+                <a href="https://github.com/number-25/" rel="me">
+                  <span class="icon">
+                    <i class="fab fa-github"></i>
+                  </span>
+                </a>
+              
+           </div>
+      </div>
+    </nav>
+  </div>
+
+<div class="container">
+  <h2 class="subtitle is-6">October 8, 2022</h2>
+  <h1 class="subtitle is-size-4-mobile is-size-3-desktop">Computational Biology for Autodidacts</h1>
+  <div class="content">
+    <blockquote>
+<p>&ldquo;Education is our passport to the future, for tomorrow belongs to those who prepare for it today&rdquo;
+&ndash; Malcolm X</p>
+</blockquote>
+<p>Once upon a time I was labouring about with pipettes in hand, cutting and
+pasting plasmids, asking questions about the edibility of my agarose gels. I
+eventually parted ways with the wet lab and moved into teaching myself
+Computational skills that I could apply to Biological questions. The journey
+has been one of the most exciting, challenging but ultimately fulfilling. There
+is a persistence that the auto-didactic approach requires; a humility and
+continually curious energy. Given that Biology proper is increasingly pulling
+from the Computational spheres in order to effectively pursue certain
+questions, it is becoming increasingly important to be literate in these
+spheres. Even a basic understanding of key concepts will take one quite far.</p>
+<p>I have pulled from several individuals for inspiration and guidance - some of
+them proficient by training, others, self taught. If not for their willingness
+to share both their mistakes and their successes, I believe my path would have
+been substantially more deviant than it has been already. It does not require
+great effort to refer others to material which will help them. And so I want to
+pay it forward, putting together a list of courses, books, essays, readings and
+so on, which I have personally used (and hereby endorse), in understanding
+Computational Biology, along with all the auxiliary disciplines which mesh into
+the field (Probability, Statistics, Mathematics, Logic, Information Theory,
+Computer Science etc.).</p>
+<p>There is a parallel repository over (though somewhat outdated) at <a href="https://github.com/number-25/ComputationalBiology-for-Autodidacts">Github</a> which contains the same information as here.</p>
+<h2 id="the-command-line">The Command Line</h2>
+<p><strong>The Unix Workbench</strong><br>
+The fundamental starting point in computational biology is the command line
+interface (CLI). It may terrify you at first, but please persist, and move
+forward with excitement as you begin traversing your system in a completely new
+way. Believe me, right now things may seem so rosy and magical as you whiz
+around in your general user interface (GUI), coddled by the ease of point and
+click, but with enough time, you will begin dreading the clunkiness of some GUI
+programs. The majority of tools in computational biology are built around a
+unix/linux system, and as such these are generally the very basic requirements.
+Embarking on a journey of learning unix based systems, in my opinion, comes
+with committing to a philosophy of open software and freedom of access to
+information. This is fundamentally about love. Love of education, love of
+knowledge, love of others, and a love of those that come after us. It is not
+surprising that almost every resource I have come across has offered a free
+version alongside paid options.</p>
+<p>You will begin seeing how fundamental and necessary these programs are for the
+proper functioning of modern day Scientific research. Hopefully you will
+appreciate how beautifully efficient they are, and the elegance of simple bash
+programs who aim to do one thing right.</p>
+<p>You likely want to begin here, and take yourself so far, probably stopping
+right before you reach the vim vs. emacs wars. After you’re proficient in
+simple processes, then you can spend your precious time pondering whether
+org-mode is worth trying.</p>
+<ul>
+<li>The <a href="https://seankross.com/the-unix-workbench/">Unix Workbench</a> by Sean Kross.</li>
+<li><a href="https://github.com/seankross/the-unix-workbench">https://github.com/seankross/the-unix-workbench</a></li>
+<li>Sean also kindly provides a Coursera unit which follows the structure of the book - highly recommended also.</li>
+</ul>
+<p><strong>Learn Enough Command Line to Be Dangerous</strong><br>
+This is a companion resource to Unix Workbench, it begins at the same skill
+level (beginner), and like Unix Workbench, works through the essentials, with a
+focus on pragmatism. Having a go at the exercises is worth while, and creating
+a personal cheat sheet of sorts is also not a bad idea. Straight forward,
+stimulating and very helpful for the beginner.</p>
+<ul>
+<li><a href="https://www.learnenough.com/command-line-tutorial/basics">Learn Enough Command Line to Be Dangerous</a> by <a href="https://www.michaelhartl.com/">Michael Hartl</a>.</li>
+<li>Free online.</li>
+</ul>
+<p><strong>Data Carpentry</strong></p>
+<p>Probably the most basic of all the introductory information resources for
+getting into data analyses and bioinformatics. They are very short - often ~10
+minute per page explanations of key concepts which may appear mundane and basic
+to experienced users, but contain just the right amount of information to ease
+beginners into the approach. I liked the short section on Cloud Genomics. If
+you&rsquo;d like to venture into other fields which utilise similar data analytic
+approaches, such as Epidemiology or Ecology, then they also have some carpentry
+courses in this too.</p>
+<ul>
+<li><a href="https://datacarpentry.org/cloud-genomics/">https://datacarpentry.org/cloud-genomics/</a></li>
+</ul>
+<h2 id="specific-computational-biology-texts">Specific Computational Biology Texts</h2>
+<p><strong>Biostar Handbook</strong><br>
+One of the most empowering developments to come out of
+bioinformatics/computational biology education is
+<a href="https://www.biostars.org/">Biostars</a>. I would put my money on it that the word
+&ldquo;Biostars&rdquo; is familiar to every single student in this field. The legendary
+forum for finding answers to what seems to be, every practical question you
+could think of. <a href="https://github.com/ialbert">Istvan Albert</a> and his colleagues
+have gone ahead and condensed their understanding into the Biostar Handbook,
+which, at a very reasonable price (especially when it comes to textbooks)
+brings you up to speed, and in my opinion, gets you very close to being
+competent and independent. What I love most about this book is its brutal
+honesty, its transparency and its emphasis on diligence and patience. They have
+slowly started breaking the book up into more specific and parcelized
+mini-books that focus on a particular topic. Another big benefit of this is
+that Istvan generously provides full access to his University lectures, which
+are also terrific.</p>
+<ul>
+<li>Most recommended for beginners/entry level.</li>
+<li><a href="https://www.biostarhandbook.com/">https://www.biostarhandbook.com</a></li>
+</ul>
+<p><strong>Computational Biology: A Hypertextbook</strong><br>
+In searching for a beginner level computational biology text that was up to
+date with more recent developments in the field, I found it surprisingly
+difficult to track anything down that was released less than 5 years ago.
+Either the text&rsquo;s were focused on a specific section of comp. bio., such as
+sequence matching algorithms, or they were highly recommended relics released
+at the advent of high throughput sequencing - classics indeed, but insufficient
+for a wholesome entry into the current field. Scrolling through twitter I saw a
+recommendation for Scott Kelly&rsquo;s and Denis Didulo&rsquo;s &ldquo;Computational Biology: A
+Hypertextbook&rdquo; - it seemed to tick all the boxes. Despite the lack of reviews
+and anecdotes, I took the chance and purchased the e-book. Given it&rsquo;s main
+selling point is that it is a Hypertext-book, I figured using the print form
+would be too clunky. So far I am very happy with the purchase - it is
+generalised enough for a beginner, yet still specific in ways that Biostars
+isn&rsquo;t. For example it has chapters on essentials such as how exactly the
+Smith-Waterman algorithm functions and so on. An excellent reference text which
+deserves more attention! My biggest hunch here is not with the textbook
+exactly, but rather with the ebook medium which it uses - a service called
+VitalSource, a underpowered platform which allows you to purchase books on how
+to use linux, only to then realise that their standalone offline apps do not
+come with Linux compatibility!! How you would open the book on Linux if you
+lacked internet connection is a mystery to me. Either way - the book is great.</p>
+<ul>
+<li>Recommended for beginners/entry level.</li>
+<li><a href="https://www.amazon.com.au/Computational-Biology-Hypertextbook-Scott-Kelley/dp/1683670027">https://www.amazon.com.au/Computational-Biology-Hypertextbook-Scott-Kelley/dp/1683670027</a></li>
+<li>The <a href="http://www.bio.sdsu.edu/faculty/kelley/scottkelley.html">Kelley</a> lab.</li>
+</ul>
+<p><strong>Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids</strong><br>
+A classic in the field, Biological Sequence Analysis imports quantitative
+methodology to answer interesting and challenging Biological questions. An
+extremely relevant book which has aged extremely well. It was published in 1998</p>
+<ul>
+<li>
+<p>some serious mileage. The name speaks for itself; within it, you will find
+writings on RNA structure co-variation analysis, sequence alignment algorithms
+and so on. Pairing this text with the other works listed here on Probability
+and Statistics, you may come to realise how clever and useful the probabilistic
+framework is. Many of the approaches this book discusses deserve the word
+<em>essential,</em> as they have build the field of Biology as we know it today. I was
+recommended it by reading <a href="http://eddylab.org/">Sean Eddy&rsquo;s</a> blog, and using
+programs he has been involved in such as Infernal and RScape. I will say this -
+they dive right into it, and the recommended &ldquo;map&rdquo; for reading the book is
+super cool. It stands as my go-to reference text on most things
+computational-algorithmic, particularly when the detail matters and I&rsquo;m not
+searching for a quick and dirty method from internet forums. Everybody should
+have a copy close by.</p>
+</li>
+<li>
+<p><a href="https://www.cambridge.org/bg/academic/subjects/life-sciences/genomics-bioinformatics-and-systems-biology/biological-sequence-analysis-probabilistic-models-proteins-and-nucleic-acids">Paid</a>, may be some free copies floating around though! It is very affordable considering what you get for your money.</p>
+</li>
+<li>
+<p>You won&rsquo;t work through this book in a few weeks, it&rsquo;ll take patience and you&rsquo;ll most often have to go away and think on the material, test it out, see it in action, then come back for more.</p>
+</li>
+<li>
+<p>Late beginner all the way to advanced.</p>
+</li>
+</ul>
+<h4 id="courses">Courses</h4>
+<p><strong>Applied Computational Genomics</strong> <strong>at the University of Utah</strong> (2020/2021)
+If you&rsquo;ve had to do play around with *.bam and *.bed files than you&rsquo;ve very
+likely come in contact with the excellent program called
+<a href="https://bedtools.readthedocs.io/en/latest/index.html">bedtools</a>. Almost every
+time I need to use this program I discover something new about it, it just
+keeps on giving. The brain behind the Bedtools is <a href="http://quinlanlab.org/">Aaron
+Quinlan</a>, a leading Computational Biologist out of the
+University of Utah . He offers a Semester long, <strong>completely free</strong> course
+which lives on
+<a href="https://github.com/quinlan-lab/applied-computational-genomics">GitHub</a>. Do you
+notice the trend here? World class thinkers who are willing to spread their
+knowledge, help others, and move Science forward, all without paywalls. Pay it
+forward if you ever get the chance! This is a great, in depth course which has
+many practical tutorials embedded within it. The homework is challenging and
+fulfilling - I have learned a lot here. Did I mention that Aaron is a terrific,
+down to earth teacher?</p>
+<ul>
+<li>Beginner/ entry level.</li>
+<li>Head over to <a href="https://github.com/quinlan-lab/applied-computational-genomics">https://github.com/quinlan-lab/applied-computational-genomics</a></li>
+</ul>
+<p><strong>Foundations of Computational and Systems Biology</strong><br>
+I can&rsquo;t be the only one who&rsquo;s jaw hits the floor when they see how rich MIT
+Open CourseWare has become, and how far back their content reaches in time.
+There are perhaps no better examples of the spirit of education than this
+initiative. Free lectures by some of the worlds top thinkers? You&rsquo;ve gotta be
+kidding me. MIT Open Courseware was made for auto-didacts, there is little more
+you could ask for when seeking to educate yourself. Detailed course structures
+and trajectories, additional recommended readings, good quality videos, and no
+pay walls - yes!</p>
+<p>This course is run by a couple of great educators (Christopher Burge, David
+Gifford &amp; Ernest Fraenkel), who are also highly capable Scientists in their own
+right. For one, Chris Burge is one of the pioneers of <em>ab initio</em> gene
+prediction, a highly successful paradigm which allowed us to understand and
+annotate much of the early high throughput sequencing data. He is also
+centrally involved in the popular &ldquo;Mixture of Isoforms&rdquo;
+<a href="https://sci-hub.st/10.1038/nmeth.1528">(MISO)</a> package. I recommend watching
+each lecture closely and definitely reading the accompanying writings. This is
+quite the intensive program if you decide to apply yourself, and it covers a
+sufficiently broad sweep of the field to give you the confidence to move
+forwards.</p>
+<ul>
+<li>Late beginner/intermediate level.</li>
+<li><a href="https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/">https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/</a></li>
+</ul>
+<h2 id="mathematics-probability-and-statistics">Mathematics, Probability and Statistics</h2>
+<p>Coming from Biology, a field closely wedded to the qualitative aspects of
+Scientific inference, where our formal training for the most part omits many of
+the approaches utilised by the &lsquo;harder sciences&rsquo;, the transition to the
+quantitative world has perhaps been the most challenging part of this. In some
+respects, you must undergo a great change in how you approach problems, how you
+approach data and measures, and your relationship to truth and validity. Much
+of this can be uncomfortable, as you must confront the fragility of your prior
+approaches to questions. Personally, this is an ongoing project which demands a
+lot of effort and grit. I have immensely appreciated this change in my thought
+processes, and am very grateful that it has taken place. The world is a bigger
+place now than it ever was. A world where precision, consistency, and
+repetition are emphasised. You will likely develop an obsession with priors,
+and with starting assumptions. Sometimes before we can even approach a problem,
+we must sketch out some vague axioms we believe to be important. Unfortunately,
+these topics are taught in notoriously bland ways across campuses alike - they
+are premature, are forced, and very often, the student barely has any
+confidence in their own logic and reasoning. Such courses may at times skip
+over the very basic reason for using tools such as probability theory in the
+first place; to make <em>better decisions</em> in the presence of uncertainty.</p>
+<h3 id="books">Books</h3>
+<p><strong>Intuitive Biostatistics: A Nonmathematical Guide to Statistical Thinking</strong><br>
+I believe this is the most comfortable introduction to conceptualising
+problems, and answers, in a more quantitative manner. As the title outlines,
+this book is almost purely built on intuitive explanations of key, widely used
+procedures in statistics. It explains when you would do x, why you would do it,
+why you wouldn&rsquo;t, and more appropriately, the assumptions and biases associated
+with it. If you&rsquo;re afraid of equations (overcome this fear as soon as possible,
+there is nothing to fear), you&rsquo;ll be given that first bit of confidence that
+should then give you the enthusiasm and energy to continue developing. The
+language here is very clear, very direct, very concise and to the point. The
+text is very honest, and works hard to provide bountiful examples of both good
+and bad uses of statistics in the literature. You will enjoy working through
+it, trust! The author Harvey Motulsky is the founder of
+<a href="https://www.graphpad.com/company/">GraphPad</a> Statistical Analysis software, so
+you may have already come across his creations without knowing! There is also a
+smaller streamlined text from Harvey called &ldquo;Essential Biostatistics&rdquo;, which is
+also worth reading if you just need a straight forward and reduced explanation.
+One last note, this book leans heavily towards biomedical research, and so most
+of the examples pull directly from this field.</p>
+<ul>
+<li>PERFECT for absolute beginners. Great reference to have on hand for those more familiar.</li>
+<li>I must admit, the book is not <a href="https://www.bookdepository.com/Intuitive-Biostatistics-Harvey-Motulsky/9780190643560?ref=grid-view&amp;qid=1612414949560&amp;sr=1-1">cheap</a> and the smaller &ldquo;Essential&rdquo; book is just not worth buying - it is an anorexic ~150 pages of widely spaced formatting. I used library copies for both until I had enough savings to purchase the larger of the two books. If you prefer eBooks than I&rsquo;d go looking.</li>
+</ul>
+<p><strong>Modern Statistics for Modern Biology</strong><br>
+Chances are that you&rsquo;ve progressed enough in your education that you&rsquo;re now
+dealing with some very real datasets. And as such, you likely have many
+outstanding questions directly related to the data on your hands, the answers
+to which are scattered all across the internet, and within various texts. This
+book will probably come down to you as a revelation. It covers much of the same
+core content on statistical inference as volumes of analogous books in this
+category do, but the biggest differences is it&rsquo;s almost singular focus on the
+application to biological datasets, very likely ones similar to those that you
+have on your hands right now. It&rsquo;s clear, filled with witty and insightful
+comments, and even provides some of the history behind the stats. You may
+choose to buy a physical of digital copy of the book, or use it online,
+completely free - once again, given the quality of the book, it&rsquo;s hard to
+believe that you can access it free of charge; that&rsquo;s love. Another really
+impressive aspect of this is that it was completely written in <strong>R(markdown)</strong>,
+and the source code for compiling the book is open. As it was written in <strong>R</strong>,
+all of the analyses are also undertaken in <strong>R</strong>, giving you that visceral feel
+for the analysis. Bravo
+<a href="https://statweb.stanford.edu/~susan/book-modern-statistics-for-modern-biology.html">Susan</a>
+and <a href="https://www.embl.de/research/units/genome_biology/huber/">Wolfgang</a>, you
+are leading the way. I purchased a physical copy to support the authors, but I
+mainly use the online version as frankly it&rsquo;s easier to way.</p>
+<ul>
+<li>Beginner to Intermediate with a keen interest.</li>
+<li>Paid or free, you choose!</li>
+</ul>
+<p><strong>Probability Theory: The Logic of Science</strong><br>
+The more I have sunken into Statistics, the more I have fallen in love with
+Probability Theory. This one is a real heavyweight for you, one of those books
+you put on a shrine and hope that may someday you&rsquo;ll be able to comprehend it&rsquo;s
+entirety. It marries Bayesian and Frequentist approaches, and makes evident
+that probability theory can be approached as an extension of Logic - as another
+tool of fundamental reasoning, giving the ability to make decisions under
+uncertainty. This book, despite it&rsquo;s density, it&rsquo;s mystery, reads beautifully.
+I only wish that Jaynes' was still with us so that I could perhaps one day sit
+in on one of his lectures. There is a honesty here which reminds me of Taleb,
+so you&rsquo;ll find yourself cracking up throughout. You&rsquo;ll need to put your savings
+together for this one! But if you&rsquo;d like to get deep into Probability and have
+some loose coin than this is a great option.</p>
+<ul>
+<li>Intermediate to Advance level - have to be very keen to work through it.</li>
+<li>You&rsquo;ll need to touch up on your Math if you&rsquo;re like me, go at your own pace.</li>
+<li>Used in Elena Rivas Mathematics in Biology course (see below).</li>
+<li><a href="https://www.cambridge.org/core/books/probability-theory/9CA08E224FF30123304E6D8935CF1A99">Here</a>.</li>
+</ul>
+<p><strong>Mathematics for the Non-Mathematician</strong><br>
+A great book. Cannot recommend it enough. There are many many positive reviews
+all over the web, I will just say, go and get it. <a href="https://en.wikipedia.org/wiki/Morris_Kline">Morris
+Kline</a> has a way of explaining
+cryptic things in simple ways and for me personally, learning about the History
+of a concept helps me to understand it a great deal. A joy to read.</p>
+<ul>
+<li>Paid, but you should be able to find it from second hand book sellers such as <a href="https://www.thriftbooks.com/">Thrift Books</a>, <a href="https://www.abebooks.com/">Abe Books</a>, <a href="https://www.worldofbooks.com/en-gb">World of Books</a> etc.</li>
+</ul>
+<p><strong>No Bullshit Guide to Math &amp; Physics/Linear Algebra.</strong><br>
+<a href="https://minireference.com/">Yes. No bullshit. Teach yourself linear algebra and maths. Go ahead. Yes.</a></p>
+<p><strong>The Art of Problem Solving Vol 1.</strong>
+Richard Rusczyk and Sandor Lehoczky have written perhaps the best starting
+point for getting comfortable with math. A huge emphasis on exercises and
+practice. Basic highschool math is the only prerequisite.</p>
+<p><strong>Book of Proof</strong>
+By Richard Hammack. A book of this type can very well change your life by
+revealing the beauty and simplicity of deductive procedures. A lovely work.
+Richard has chosen to provide this book free of charge
+<a href="https://www.people.vcu.edu/~rhammack/BookOfProof/BookOfProof.pdf">online</a>. Pass it on!</p>
+<h3 id="courses-1">Courses</h3>
+<p><strong>Mathematics in Biology</strong><br>
+I greatly admire the work of <a href="https://www.mcb.harvard.edu/department/news/directory/elena-rivas/">Elena
+Rivas</a>, I
+think she is an excellent Scientist (under-appreciated too), so when I saw that
+she was doing a semester long Mathematics for Biology course from Harvard, I
+was over the moon! My excitement, soon transformed into humility, as the course
+structure showed me just how far further I have to go in my own knowledge base.
+It takes long enough to replace the brainwashing that Biologists go through in
+our undergraduate days, being taught to freeze in horror at anything remotely
+mathematical and quantitative. Courses such as this allow one to lay a new
+foundation for Mathematics, and understand that so many Biological phenomena
+can be better understood with the tools of Math. It is comprehensive and
+rigorous, and is everything you expect the course to be. Another one of the
+worlds leading thinkers, providing content to the world without reservations.</p>
+<ul>
+<li>Completely free</li>
+<li><a href="http://mcb111.org/">Head over to the course website.</a></li>
+</ul>
+<p><strong>Khan Academy</strong><br>
+Khan Academy is pretty self explanatory - I think everybody under the age of 50
+has watched one of their videos at some point in their life. Their dedicated
+website gives you a terrific and rather comprehensive introduction to
+Mathematics and Statistics at most skill levels. I have no issues admitting
+that I used, and still use Khan for self education. Plus, Khan is a great human
+being, so why not.</p>
+<ul>
+<li><a href="https://www.khanacademy.org/">https://www.khanacademy.org/</a></li>
+</ul>
+<h2 id="programming-languages">Programming Languages</h2>
+<h3 id="r">R</h3>
+<p>I think it&rsquo;s safe to simply point one in the direction of Hadley Wickham and his collaborators. You&rsquo;ll findhis works referenced by almost all introductory courses + websites on R. Head over to his main site and have a <a href="https://hadley.nz/">browse</a>. The philosophy behind the tidyverse and tidydata is a breath of clarity.
+I&rsquo;m just a beginner in R myself, as I was able to do 80% of my ~2 years worth of analysis in basic shell programming, thanks to the immense catalogue of free computational tools. To be blunt&hellip; as the joke goes, you can probably replace most computationalists with an automated bedtools applet.</p>
+<p>Coursera</p>
+<p>Quite inexpensive and they do have financial assistance which I have no shame in admitting I took ahold of on numerous occasians</p>
+<p><strong>Introduction to Bioconductor</strong></p>
+<p>Bioconductor is the main R repository of analytic packages used by scientists, and most specifically, biologists. It&rsquo;s integration and organization will make you wonder where conda went wrong (HA!).</p>
+<p><strong>Bioconductor for Genomics</strong></p>
+<p>Although I haven&rsquo;t taken this course yet, perusing it&rsquo;s materials and noting it&rsquo;s popularity, I&rsquo;ve got it saved for a future date as it covers the essentials that one needs to get up and running in R, analysing datasets and making sense of our questions at hand.<br>
+<a href="https://kasperdanielhansen.github.io/genbioconductor/">Bioconductor for Genomic Data Science</a></p>
+<p><strong>Exploring, Visualizing, and Modeling Big Data with R</strong></p>
+<p>Another resource which is on my to-do list. What attracted me to this was the emphasis on Big Data. Large datasets can be really tricky to wrangle and manipulate, and given that R stores most data in memory, it pays off to know how to avoid crashing your system and making yours and your coworkers lives a little easier.</p>
+<p><a href="https://okanbulut.github.io/bigdata/">https://okanbulut.github.io/bigdata/</a></p>
+<p><strong>Grammar of Graphics</strong></p>
+<p>The best introductory two-part video on plotting in R - using the marvelous ggplot package.
+<a href="https://www.youtube.com/watch?v=h29g21z0a68">ggplot2 workshop part 1</a> by <a href="https://www.data-imaginist.com/">Thomas Lin Pederson</a>.</p>
+<h3 id="julia">Julia</h3>
+<p>Another fancy language.. oh boy..</p>
+<p>Think Julia: How to think like a computer scientist</p>
+<p>Julia for Data Science</p>
+<p><a href="https://juliadatascience.io/">https://juliadatascience.io/</a></p>
+<p>Took Bogumil&rsquo;s short course&hellip;. loved his DataFrames package&hellip;. bought his textbook&hellip;. put a smile on my face.</p>
+<p>Coursera</p>
+<h3 id="python">Python</h3>
+<p>The extremely small amount of Python that I committed to was mainly learned through W3 schools. The gold standard text appears to be Wes McKinneys book published by O&rsquo;Reilly. I&rsquo;m sure there are copies floating around the internet.</p>
+<h3 id="sql">SQL</h3>
+<h3 id="blogs-and-pages-to-follow">Blogs and Pages to Follow</h3>
+<p>Coming soon.</p>
+<p><a href="http://compeau.cbd.cmu.edu/home/teaching/great-ideas-in-computational-biology/">http://compeau.cbd.cmu.edu/home/teaching/great-ideas-in-computational-biology/</a></p>
+
+  </div>
+</div>
+<div class="container has-text-centered">
+    
+    <aside><div id="share"></div></aside>
+    <script type="text/javascript">
+        $("#share").jsSocials({
+            showLabel: false,
+            showCount: false,
+            shares: []
+        });
+    </script>
+    
+</div>
+
+<div class="container has-text-centered">
+  
+</div>
+<section class="section">
+  <div class="container has-text-centered">
+    <p>; <a href=</p>
+  </div>
+</section>
+
+

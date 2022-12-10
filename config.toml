@@ -1,0 +1,33 @@
+baseURL = "https://number-25.github.io/"
+languageCode = "en-us"
+title = "Kobe and Pascal"
+theme = "charaka-hugo-theme"
+
+copyright = "; <a href="
+disqusShortname = ""
+googleAnalytics = ""
+
+[params]
+
+[author]
+  name = "Dejan Basic"
+  homepage = "h"
+
+[params.highlight]
+  style = "zenburn"
+
+[params.share]
+  enabled = "true"
+
+[[params.social]]
+  url = "about"
+  fa_icon = "fas fa-info"
+
+[[params.social]]
+  url = "https://github.com/number-25/"
+  fa_icon = "fab fa-github"
+
+
+#[[params.social]]
+#  url = "https://twitter.com/basicdean/"
+#  fa_icon = "fab fa-twitter"
