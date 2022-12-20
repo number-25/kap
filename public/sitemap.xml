@@ -1,98 +1,57 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://number-25.github.io/posts/aura_poem/</loc>
-    <lastmod>2022-12-09T12:49:11+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://number-25.github.io/</loc>
-    <lastmod>2022-12-09T12:49:11+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://number-25.github.io/posts/</loc>
-    <lastmod>2022-12-09T12:49:11+00:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://number-25.github.io/posts/computational-biology-for-autodidacts/</loc>
     <lastmod>2022-10-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://number-25.github.io/</loc>
+    <lastmod>2022-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://number-25.github.io/posts/</loc>
+    <lastmod>2022-10-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://number-25.github.io/posts/braudel-a-dialectician/</loc>
     <lastmod>2022-09-22T07:38:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://number-25.github.io/posts/eternalnow/</loc>
     <lastmod>2022-09-21T01:07:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://number-25.github.io/posts/brecht/was-too-small-brecht/</loc>
     <lastmod>2022-09-06T09:19:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://number-25.github.io/posts/brecht/the-good-and-the-gods/</loc>
     <lastmod>2022-09-06T04:29:16+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://number-25.github.io/posts/brecht/city-at-dawn/</loc>
     <lastmod>2022-09-06T04:19:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://number-25.github.io/posts/brecht/sun-the-airman-with-no-mail/</loc>
     <lastmod>2022-09-04T03:22:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://number-25.github.io/posts/brecht/song-of-the-smoke-brecht/</loc>
     <lastmod>2022-09-04T02:51:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://number-25.github.io/posts/poem-about-yanan/</loc>
     <lastmod>2022-09-03T05:09:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://number-25.github.io/posts/brecht/brecht_worker-reads-history/</loc>
     <lastmod>2022-09-01T10:05:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://number-25.github.io/tags/brecht/</loc>
     <lastmod>2022-09-01T10:05:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://number-25.github.io/tags/poetry/</loc>
     <lastmod>2022-09-01T10:05:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://number-25.github.io/tags/proletariat/</loc>
     <lastmod>2022-09-01T10:05:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://number-25.github.io/tags/</loc>
     <lastmod>2022-09-01T10:05:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://number-25.github.io/posts/modernities-morrow/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://number-25.github.io/categories/</loc>
   </url>
-  
 </urlset>
