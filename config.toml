@@ -1,4 +1,4 @@
-baseURL = "https://number-25.github.io/"
+baseURL = "https://number-25.github.io/kap"
 languageCode = "en-us"
 title = "Kobe and Pascal"
 theme = "charaka-hugo-theme"
