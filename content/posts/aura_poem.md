@@ -19,7 +19,10 @@ To see a chrysalis and turn my eyes from its immanence
 Look into the red dirt and feel a million years travel through my bones
 
 
-Who needs tomorrow more than the dreamer? 
+Who needs tomorrow more than the dreamer?
+A victim and his sheep, flock together 
+On whos seas did the sailor sing?
+Tunes of salt and blue air, who dare, approach the 
 
 
 
