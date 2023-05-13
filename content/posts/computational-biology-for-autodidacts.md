@@ -31,7 +31,7 @@ Computer Science etc.).
 
 There is a parallel repository over (though somewhat outdated) at [Github](https://github.com/number-25/ComputationalBiology-for-Autodidacts) which contains the same information as here.
 
-## The Command Line
+## The Command Line - Shell 
 
 **The Unix Workbench**  
 The fundamental starting point in computational biology is the command line
@@ -86,7 +86,9 @@ courses in this too.
 
 - [https://datacarpentry.org/cloud-genomics/](https://datacarpentry.org/cloud-genomics/)
 
-## Specific Computational Biology Texts
+## Computational Biology
+
+### Books and Textbooks 
 
 **Biostar Handbook**   
 One of the most empowering developments to come out of
@@ -204,6 +206,18 @@ forwards.
 - Late beginner/intermediate level.
 - [https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/)
 
+**Case Studies in Functional Genomics**
+
+Rafael Irizarry is an analyst and statician whom I stumbled upon early into my
+self-study, and have been keeping updates on ever since. His honesty, breadth of
+knowldege and sober perspectives on fundamental problems in computational
+analysis are extremely valuable. He's far from a hype man in an industry of
+hyperbolics. Given his basis in statistics, his courses are all rich in
+quantitative information, so I would say this is a good place to start for the
+more advanced students. 
+
+- [https://www.edx.org/bio/rafael-irizarry](https://www.edx.org/bio/rafael-irizarry)   
+
 
 ## Mathematics, Probability and Statistics
 
@@ -227,7 +241,7 @@ confidence in their own logic and reasoning. Such courses may at times skip
 over the very basic reason for using tools such as probability theory in the
 first place; to make _better decisions_ in the presence of uncertainty.
 
-### Books
+### Books and Textbooks 
 
 **Intuitive Biostatistics: A Nonmathematical Guide to Statistical Thinking**  
 I believe this is the most comfortable introduction to conceptualising
@@ -314,6 +328,11 @@ Richard Rusczyk and Sandor Lehoczky have written perhaps the best starting
 point for getting comfortable with math. A huge emphasis on exercises and
 practice. Basic highschool math is the only prerequisite.    
 
+**Introduction to Counting and Probability**  
+If you're looking for a bare bones, absolutely novice introduction to Probability
+theory, this is an amazing option. It is from the same series as The Art of
+Problem Solving mentioned above. Well worth the effort.    
+
 **Book of Proof** 
 By Richard Hammack. A book of this type can very well change your life by
 revealing the beauty and simplicity of deductive procedures. A lovely work.
@@ -360,13 +379,13 @@ I'm just a beginner in R myself, as I was able to do 80% of my ~2 years worth of
 
 Coursera 
 
-Quite inexpensive and they do have financial assistance which I have no shame in admitting I took ahold of on numerous occasians 
-
-
+Quite inexpensive and they do have financial assistance which I have no shame in admitting I took ahold of on numerous occasians during my studies. 
 
 **Introduction to Bioconductor**
 
-Bioconductor is the main R repository of analytic packages used by scientists, and most specifically, biologists. It's integration and organization will make you wonder where conda went wrong (HA!). 
+Bioconductor is the main R repository of analytic packages used by scientists,
+and most specifically, biologists. It's integration and organization will make
+you wonder where conda went wrong (HA!). 
 
 **Bioconductor for Genomics**   
 
@@ -376,7 +395,11 @@ Although I haven't taken this course yet, perusing it's materials and noting it'
 
 **Exploring, Visualizing, and Modeling Big Data with R**
 
-Another resource which is on my to-do list. What attracted me to this was the emphasis on Big Data. Large datasets can be really tricky to wrangle and manipulate, and given that R stores most data in memory, it pays off to know how to avoid crashing your system and making yours and your coworkers lives a little easier. 
+Another resource which is on my to-do list. What attracted me to this was the
+emphasis on Big Data. Large datasets can be really tricky to wrangle and
+manipulate, and given that R stores most data in memory, it pays off to know how
+to avoid crashing your system and making yours and your coworkers lives a little
+easier. 
 
 https://okanbulut.github.io/bigdata/
 
@@ -387,27 +410,44 @@ The best introductory two-part video on plotting in R - using the marvelous ggpl
 
 ### Julia
 
-Another fancy language.. oh boy.. 
+Another fancy language, one of another million that you've heard of.. oh boy..
+Trust, Julia is phenomenal - do a bit of background reading as to why it's a
+worthwhile option for you. For me, it's the speed and power, the supportive community
+for Science and the quantiative fields, and the fact that it's easy to learn.    
 
-Think Julia: How to think like a computer scientist
+**Think Julia: How to Think like a Computer Scientist**    
+Perhaps the best introductory book to Julia and the thought patterns which programming gradually develops in one. Those who are familiar with Python may notice the
+similarity of the title to another work "Think Python..." -- Think Julia is
+actually this exact book translated into Julia! 
+
+
 
 Julia for Data Science
 
 https://juliadatascience.io/
 
-Took Bogumil's short course.... loved his DataFrames package.... bought his textbook.... put a smile on my face.    
-
-Coursera
+Took [Bogumil's short course]().... loved his DataFrames package.... bought his textbook.... put a smile on my face.    
 
 
+Coursera 
 
-### Python
+### Nextflow 
 
-The extremely small amount of Python that I committed to was mainly learned through W3 schools. The gold standard text appears to be Wes McKinneys book published by O'Reilly. I'm sure there are copies floating around the internet. 
+Reproducibility, portability and containerisation, workflows. Four words which have
+rightly generated much activity in recent years. The basic idea is to create a
+closed, referential and singular 'container'  which can be shared easily, run
+comfortably by both computationalists and wet lab experimentalists, and most
+importantly, on most operating systems and architectures with minimal leakage
+and requirements for local depencies. If I send you my pipeline the goal is for
+you to be able to run it virtually anywhere, and for it to behave in the exact
+same way each and every time, across every single run. If you have any
+experience in chasing datasets and programs from published literature, you'll
+know just how murky the waters can get.       
 
-
-### SQL
-
+**Nextflow Carpentries** 
+I have to admit that the "introductory" Nextflow tutorials on the official
+Nextflow site, are woefully ambiguous and simplistic. I found the Carpentries
+website a lot more forgiving.    
 
 
 
