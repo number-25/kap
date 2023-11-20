@@ -1,0 +1,258 @@
+---
+title: "Notes on Minqi Li's 'The Rise of China and the Demise of the Capitalist
+World Economy"
+date: 2023-11-10T01:52:54Z
+draft: false
+---
+
+Notes on a terrific work in political economy. Extremely pertinent to our
+present. 
+
+
+"Suppose, in response to the current crisis of neoliberalism, global capitalism
+is restructured with a greater degree of state intervention and more equal
+distribution of income (is this not what much of the world's intellectual Left
+is hoping for at the moment?), would it not be expected that in at most two or
+three decades, there would be a new global profitability crisis? What should the
+world's working classes (and the intellectual Left) do then? Wait for another
+round of 30 years of neoliberalism to play itself out?"     
+
+Here Minqi succinctly captures the low-hanging demands of many political
+commentators, who, having devoted ever more explanatory leverage to
+neoliberalism, seem to have settled for modest targets in their political
+philosophy. 
+
+"These movements of dynamic balances have led to successive "systemic
+cycles":the "long fifteenth-sixteenth century" (1350-1630) based on the
+collaboration of the Genoese business communities and the Spanish state; the
+"long seventeenth century" (1560-1790) based on Dutch hegemony; the "long
+nineteenth century" (1740-1930) based on British hegemony; and the "long
+twentieth century" (1870-?) based on American hegemony. In *The Long Twentieth
+Century*, Giovanni Arrighi argued that the expansion and the growing complexity
+of the capitalism world-economy had required the formation of "political
+structures endowed with ever-more extensive and complex organizational
+capabilities to control the social and political environment of capital
+accumulation on a worlds scale.""     
+
+"In the early nineteenth century, China was still the world's largest
+territorial economy and China's GDP accounted for one-third of the gross world
+product. Asia as a whole accounted for fully two-thirds of the gross world
+product. From the early nineteenth century to the mid-twentieth century, the
+rise of the West was matched by the decline of Asia. By 1950, China's share in
+the world GDP fell to less than 5 percent. In the early nineteenth century, the
+gap in per capita GDP between China and the leading core states was about 2:1.
+By 1950, the gap widened to about 20:1 and China was reduced to being among the
+poorest populations in the world." 
+
+Following China's 'Century of Humiliation' -- thrashing through imperial exploits,
+world war II, and it's own civil war, China was reduced to a state of widespread
+poverty. It's recovery to the present day, is one of the greatest feats
+of humankind - of all times.       
+
+"Between 1960 and 1980, China's life expectancy at birth rose by 30.5 years.
+This was an improvement greater than the world average, every country group, and
+every selected country."    
+
+".... China had followed the classic Soviet strategy of "mercantilist
+semi-withdrawal" in the form of state ownership of the means of production and
+centralized economic planning, in effect, complete state monopoly over the
+domestic market."      
+
+"The former capitalists received compensation from the government and served as
+managerial staff in the now state-owned enterprises."    
+
+"It is clear that the Revolutionary China that existed in the period 1949-76
+remained a part of the capitalist world-economy and was bound by the same basic
+laws of motion ("the law of value") of the capitalist world-economy."     
+
+Despite being based on a different socialisation model, market dynamics are unavoidable if
+integration with the remaining world is sought. Firms and enterprises must still
+compete in the same space, set prices, and exchange commodities with nations
+from capitalist countries, whom overwhelmingly dominated trade. In this way, the
+socialist states themselves are at the mercy of markets who's law of value is
+likely in deep conflict with it's own conceptions of value. How to rise, develop
+and embark on the paths of modernisation if one is constricted by the dominant
+forms. If prices are set at certain levels, either one engages and enters into
+relations, setting ones prices at competitive levels, levels predetermined by
+powerful players, or one refuses and thus withdraws from the capitalist
+world-economy. How could this make life possible? Socialist states preferring the
+flavor of refusal are here islands, isolated from the potentially uplifting
+benefits of such relations. Growth, development is on the agenda; people need
+housing, clean water, education, health and enjoyment. No doubt, a world of
+socialist states creates a vastly different environment, with laws of value who's
+interaction requires explication and understanding - what could such a
+socialisation look like? 
+
+Quoting Vicente Navarro: "... contrary to prevalent belief, the level of health
+of a population is not primarily the result of medical interventions... There is
+no correlation between level of medical expenditures and level of health... the
+health of the population is the outcome of a whole set of social, economic, and
+political interventions, among which medical care plays a minor role... Thus
+health indicators are good indicators of social and economic development."   
+
+This brings to memory the foundation text on inequality and health indicates, "The Spirit Level by Richard Wilkinson
+and Kate Pickett".    
+
+"However, the historical tendency indicated that a growing proportion of the
+bureaucratic and technocratic elites tended to become, and some former
+revolutionaries tended to degenerate into, selfish careerists who were only
+interested in the expansion of individual wealth and power. Once these selfish
+careerists had become the majority in the elites and managed to consolidate
+their material privileges and power, then a new exploiter class in the form of
+privileged bureaucrats, privileged technocrats, and bureaucratic capitalists,
+alienated from the worker and peasants, would have emerged."    
+
+"Most Chinese intellectuals in the 1980s were from families that had been
+capitalists or landlords before the Revolution. Their resentments against the
+Revolution (especially the Cultural Revolution) were strong and they often did
+not hide their contempt and hatred of ordinary workers and peasants... All of
+these wer behind the intellectuals' call for "freedom and democracy." In effect,
+the Chinese urban middle class was demanding a bigger share of the power as
+China moved towards capitalism. Some intellectuals explicitly called for
+"neo-authoritarianism", citing Japan, Taiwan, Singapore, and South Korea as
+models, that is, they advocated a capitalist model that would be repressive
+towards the working class but could secure "property rights" for capitalists and
+"civil liberty" for intellectuals."    
+
+"After 1992, the Chinese ruling elites were ready to undertake mass
+privatization. Tens of millions of state-sector workers were laid off. Those
+that retained employment were deprived of their traditional socialist rights,
+such as job security, medical insurance, access to housing, and guaranteed
+pensions. In the meantime, privatization in the rural areas has destroyed the
+rural public health care and education systems, which had been very effective
+during the Maoist era in meeting the rural population's basic needs. Hundreds of
+millions of peasants migrated to the cities, finding work under sweatshop
+conditions. The defeat of the urban working class and the creation of a massive
+surplus labor force laid down the foundation of China's capitalist boom. By the
+early 2000s, China had become the world's "workshop," the center of the world's
+export manufacture. China's economic rise has important global implications.
+First, China's deeper incorporation into the capitalist world-economy has
+massively increased the size of the global reserve army of cheap labor force. In
+some industries, this allows capitalists in the core states to directly lower
+their wages and other costs by relocating capital to China. But more important
+is the "threat effect." That is, capitalists in the core states force core-state
+workers to accept lower wages and worse working conditions by threatening to
+move their factories of office to cheap labor areas such as China, without
+actual movement of physical capital."   
+
+Alan Greenspan's "traumatized worker"... 
+
+"After years of rapid world economic growth, global excess production capacity
+is being depleted, while there has been growing upwards pressure on energy and
+commodities prices."    
+
+"The US's general government balance moved swiftly from a surplus of 1.4 percent of GFP
+to a deficit of 4.6 percent of GFP between 2000 [Clinton term] and 2003 [Bush
+term], or an expansionary swing of 6 percent of GDP. The Federal Reserve cut the
+short-term interest rate by 5.5 percentage points and kept real interest rates
+below or near zero for years. The resultant massive increase in money supply
+helped to stabilize the stock market but it soon led to a much bigger housing
+bubble, which in turn led to a new round of debt-financed consumption boom."   
+
+In terms of near zero interest rates, this is a chillingly similar scenario to
+that which has transpired in Australia during the recent debt-heavy housing
+boom. Australia's household debt-to-gdp ratio is at a shocking figure of ~130%.
+A short history of Doom.    
+
+"With stagnant real incomes and wages, the expansion of the US private
+consumption has been financed largely by household borrowings [credit].... US
+household debt has soared from about 60 percent of GFP in the early 1990s to
+about 100 percent of GFP today, and under the current trend could rise to 120
+percent of GDP by 2010."    
+
+"In recent years, health care, education, and housing costs have surged, known
+to the Chinese working people as the "new three mountains," (the old "three
+mountains" referred to the pre-Revolution forces of oppression: imperialism,
+feudalism, and bureaucratic capitalism)..."     
+
+"China's huge reserve army of cheap labor has been a major factor in undermining
+the bargaining power of the global working classes. However, capitalist
+development has been transforming China's own social structure and a large
+proletarianized working class is emerging in China." 
+
+"All social systems that are based on the exploitation of the great majority are
+confronted with the question: how can the unified rebellion of the exploited
+majority be prevented? Without an effective solution to this problem, it is
+unlikely that any exploitative system can survive for long. Historically, the
+problem has been "resolved" by dividing the majority into "a larger lower stratum
+and a smaller middle stratum." The middle stratum is both exploiter and
+exploited. By providing the middle stratum with access to a portion of the
+surplus product, the ruling elites buy off the potential political leadership of
+the exploited majority... within each state, the working population is to be
+divided between a great majority and a relatively privileged "middle class" or
+"labor aristocracy"." 
+
+"The 1980s and 1990s were "lost decades" for the historical well-to-do
+semi-peripheral states. From 1980 to 2000, Latin America saw its income index
+(as a ratio of the world average per capita GDP) fall from 129 to 95, and Middle
+East and North Africa saw its income index fall from 75 to 64. The eastern
+European index collapsed from 129 in 1989 to 82 in 2000."
+
+Taking Argentina as an example, the repeated 'free market openings' and
+'privatization efforts' failed to hoist the nation from its debt peonage,
+rather, worsening the situation over the course of decades. Each failed round of
+austerity and debt restructuring was followed by another round of crisis, who's
+remedy was the prescription of yet another round of the same medication -- a
+cynical and demented situation for millions of workers. One had to begin
+wondering whom this US-IMF approach was actually aiding? 
+
+"According to one report, about two million high and middle-ranking, current and
+retired Chinese government officials and their relatives own about 70 percent of
+the total private wealth (savings, stocks, bonds, houses and foreign
+exchanges) in China."    
+
+An approximation which urgently needs to be followed up on.    
+
+"For the capitalist world-economy, the problem of China lies with its huge size.
+China has a labor force that is larger than the total labor force in all of the
+core states, or that in the entire historical well-to-do semi-periphery. As
+China competes with the well-to-do semi-peripheral states in a wide range of
+global commodity chains, the competition eventually would lead to the
+convergence between China and the historical well-to-do semi-peripheral states
+in profit rates and wage rates. The convergence may take place in an upward or a
+downward manner."    
+
+"A continent size state of bloc of states is probably the largest possible
+political unit that can be accommodated in the capitalist world-economy without
+undermining the necessary condition of inter-state competition. It seems that
+the capitalist world-economy, through successive expansions, has reached one of
+its historical limits. Its volume and density have by now grown to the point
+that it cannot be effectively regulated by any political unit that is smaller
+than a continent sized state and as its volume and density keep growing, the
+effective regulation of the system would probably require some unit that is
+significantly larger than a continent-size unit. On the other hand, any
+political unit that is significantly larger than continent sized state could be
+politically overwhelming in that it would in effect end inter-state competition
+and remove a necessary condition for an economic system based on the endless
+accumulation of capital. To the extend this dilemma cannot be resolved within
+the historical framework of the existing world-system, we are approaching the
+moment of demise of the capitalist world-economy."    
+
+"In finance, the interest rate represents the growth rate of debt. Thus, if the
+real interest rate is higher than the economic growth rate, then the debt:income
+ratio trends to rise indefinitely, imposing ever greater burden on the debtors.
+This tendency, if not checked, would lead to widespread bankruptcies of
+households, business, and governments, ending with a general economic collapse.
+Indeed, the surge in the US's real interest rate immediately led to the debt
+crisis throughout Latin America, Africa, and eastern Europe."      
+
+Contrary to the notion that these countries entered crises under the so called
+'weight of their own contradictions and endless political repressions'.. a
+mysterious and unserious line of thought.   
+
+"This understanding of systemic processes is consistent with the historical
+materialist argument that all social systems are historical. It follows that
+capitalism is a historically specific social system that is appropriate only
+under certain historical conditions and must give way to a new social system as
+the underlying historical conditions change."   
+
+"... for China and India to have any chance to rise to the status of a
+hegemonic power, they will have to exploit the rest of the world's resources on
+a massive scale. This will immediately bring them into conflict with North
+America and Western Europe that have so far benefited from consuming resources
+at levels much higher than not only the world average but also their own
+bio-capacities. But the world as a whole has already overshot its ecological
+limit, and it can hardly survive the "rise of China" or the "rise of India" in
+such a manner."    
+
+
