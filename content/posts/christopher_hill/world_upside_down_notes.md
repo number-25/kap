@@ -1,6 +1,6 @@
 ---
 title: "Notes on Christopher Hill's 'The World Turned Upside Down' " 
-date: 2024-05-18T00:36:30Z
+date: 2024-06-01T00:36:30Z
 draft: false 
 tags: ["english revolution", "christopher hill", "communism", "english history"]     
 ---
