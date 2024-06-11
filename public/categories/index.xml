@@ -4,8 +4,9 @@
     <title>Categories on Kobe and Pascal</title>
     <link>https://kobeandpascal.com/categories/</link>
     <description>Recent content in Categories on Kobe and Pascal</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>; &lt;a href=</copyright><atom:link href="https://kobeandpascal.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>; &lt;a href=</copyright>
+    <atom:link href="https://kobeandpascal.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
