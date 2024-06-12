@@ -1,7 +1,7 @@
 baseURL = "https://kobeandpascal.com"
 languageCode = "en-us"
 title = "Kobe and Pascal"
-theme = "charaka-hugo-theme"
+theme = "charaka_mod"
 
 copyright = "; <a href="
 disqusShortname = ""
@@ -17,7 +17,7 @@ googleAnalytics = ""
   style = "zenburn"
 
 [params.share]
-  enabled = "true"
+  enabled = "false"
 
 [[params.social]]
   url = "about"
