@@ -30,7 +30,7 @@ The torrent roared, and we did buffet it\
 With lusty sinews, throwing it aside,\
 And stemming it with hearts of controversy.\
 But ere we could arrive the point proposed,\
-Caesar cried "Help me, Cassius, or I sink?"\
+Caesar cried "Help me, Cassius, or I sink!"\
 Ay, as Aeneas our great ancestor\
 Did from the flames of Troy upon his shoulder.\
 The old Anchises bear, so from the waves of Tiber\
@@ -51,7 +51,98 @@ As a sick girl. Ye gods, it doth amaze me\
 A man of such a feeble temper should\
 So get the start of the majestic world,\
 And bear the palm alone!\
-    *Flourish and shout within*.\
+    *Flourish and shout within*.
+
+**CASSIUS**
+Why, man, he doth bestride the narrow world\
+Like a Colossus, and we petty men\
+Walk under his huge legs, and peep about\
+To find ourselves dishonorable graves.\
+Men at sometime were masters of their fates.\
+The fault, dear Brutus, is not in our stars.\
+But in ourselves, that we are underlings.\
+Brutus and Caesar: what should be in that "Caesar"?\
+Why should that name be sounded more than yours?\
+Write them together: yours is a fair name.\
+Sound them: it doth become the mouth as well.\
+Weigh them: it is as heavy. Conjure with 'em:\
+"Brutus" will start a spirit as soon as "Caesar."\
+Now in the names of all the gods at once,\
+Upon what meat doth this our Caesar feed\
+That he is grown so great? Age, though art shamed.\
+Rome, thou hast lost the breed of noble bloods.\
+When went there by an age since the great flood,\
+But it was famed with more than with one man?\
+When could they say till now, that talked of Rome,\
+That her wide walls encompassed but one man?\
+Now is it Rome indeed, and room enough\
+When there is in it but one only man.\
+O, you and I have heard our fathers say\
+There was a Brutus once that would have brooked\
+Th' eternal devil to keep his state in Rome\
+As easily as a king.\   
+
+**BRUTUS**
+But 'tis a common proof\
+That lowliness is young ambitions ladder,\
+Whereto the climber-upward turns his face;\
+But when he once attains the upmost round,\
+He then unto the ladder turns his back,\
+Looks in the clouds, scorning the base degrees\
+By which he did ascend...\   
+
+**CALPURNIA**
+When beggars die there are no comets seen;\
+The heavens themselves blaze forth the death of princes.\   
+
+**CAESAR**
+The gods do this in shame of cowardice.\
+Caesar should be a beast without a heart\
+If he should stay home today for fear.\
+No, Caesar shall not. Danger knows full well\
+That Caesar is more dangerous than he.\
+We are two lions littered in one day,\
+And I the elder and more terrible.\
+And Caesar shall go forth.\
+
+**ARTEMDORUS**
+My heart laments that virtue cannot live\
+Out of the teeth of emulation.  
+
+**ANTONY**
+O pardon me, though bleeding piece of earth,\
+That I am meek and gentle with these butchers.\
+Though art the ruins of the noblest man\
+That ever lived in the tide of times.\
+Woe to the hand that shed this costly blood!\
+Over thy wounds now do I prophesy ---\
+Which like dumb mouth do ope their ruby lips\
+To bed the voice and utterance of my tongue ---\
+A curse shall light upon the limbs of men;\
+Domestic fury and fierce civil strife\
+Shall cumber all the parts of Italy;\
+Blood and destruction shall be so in use,\
+And dreadful objects so familiar,\
+That mothers shall but smile when they behold\
+Their infants quartered with the hands of war,\
+All pity chocked with custom of fell deeds;\
+And Caesar's spirit, ranging for revenge,\
+With Ate by his side come hot from hell,\
+Shall in these confines with a monarch's voice\
+Cry "havoc!" and let slip the dogs of war,\
+That this foul deed shall smell above the earth\
+With carrion men, groaning for burial.\
+\
+\
+O judgement, thou art fled to brutish beasts,\
+And men have lost their reason!\  
+
+**MESSALA**
+O hateful Error, Melancholy's child
+
+
+
+
 
 
 
