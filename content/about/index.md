@@ -1,7 +1,7 @@
 ---
 title: "Kobe and Pascal"
 author: "<no value>"
-menu: "main"
+#menu: "main"
 draft: false
 ---
 
