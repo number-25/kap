@@ -1,5 +1,5 @@
 ---
-title: "Kobe and Pascal"
+title: "About"
 author: "<no value>"
 #menu: "main"
 draft: false
