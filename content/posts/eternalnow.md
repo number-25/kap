@@ -3,7 +3,7 @@ title: "The Eternal Now by Paul Tillich"
 date: 2022-09-21T01:07:40Z
 ---
 
-What follows are some of my favorite excerpts from the Theologian Paul Tillich's book 'The Eternal Now'.    
+What follows are some of my favorite excerpts from the Christian Theologian Paul Tillich's book *The Eternal Now*.    
 
 *They withdraw into a self-chosen loneliness, taking revenge through bitterness
 and hostility towards those they feel have rejected them, actually enjoying the

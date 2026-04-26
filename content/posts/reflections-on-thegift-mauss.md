@@ -130,6 +130,3 @@ motivations, the diverse material and demographic factors, the
 sum total of which are the basis of society and constitute our
 common life, the conscious direction of which is the supreme
 art, *Politics*, in the Socratic sense of the word."   
-
-
-

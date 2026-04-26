@@ -1,6 +1,7 @@
 ---
 title: "Computational Biology for Autodidacts"
 date: 2022-10-08
+draft: true
 ---
 
 > "Education is our passport to the future, for tomorrow belongs to those who prepare for it today" 
