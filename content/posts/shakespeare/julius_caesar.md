@@ -53,7 +53,7 @@ So get the start of the majestic world,\
 And bear the palm alone!\
     *Flourish and shout within*.
 
-**CASSIUS**
+**CASSIUS**  
 Why, man, he doth bestride the narrow world\
 Like a Colossus, and we petty men\
 Walk under his huge legs, and peep about\
@@ -80,22 +80,22 @@ When there is in it but one only man.\
 O, you and I have heard our fathers say\
 There was a Brutus once that would have brooked\
 Th' eternal devil to keep his state in Rome\
-As easily as a king.\   
+As easily as a king.  
 
-**BRUTUS**
+**BRUTUS**  
 But 'tis a common proof\
 That lowliness is young ambitions ladder,\
 Whereto the climber-upward turns his face;\
 But when he once attains the upmost round,\
 He then unto the ladder turns his back,\
 Looks in the clouds, scorning the base degrees\
-By which he did ascend...\   
+By which he did ascend...  
 
-**CALPURNIA**
+**CALPURNIA**  
 When beggars die there are no comets seen;\
-The heavens themselves blaze forth the death of princes.\   
+The heavens themselves blaze forth the death of princes.  
 
-**CAESAR**
+**CAESAR**  
 The gods do this in shame of cowardice.\
 Caesar should be a beast without a heart\
 If he should stay home today for fear.\
@@ -103,13 +103,13 @@ No, Caesar shall not. Danger knows full well\
 That Caesar is more dangerous than he.\
 We are two lions littered in one day,\
 And I the elder and more terrible.\
-And Caesar shall go forth.\
+And Caesar shall go forth.  
 
-**ARTEMDORUS**
+**ARTEMDORUS**  
 My heart laments that virtue cannot live\
 Out of the teeth of emulation.  
 
-**ANTONY**
+**ANTONY**  
 O pardon me, though bleeding piece of earth,\
 That I am meek and gentle with these butchers.\
 Though art the ruins of the noblest man\
@@ -131,18 +131,11 @@ With Ate by his side come hot from hell,\
 Shall in these confines with a monarch's voice\
 Cry "havoc!" and let slip the dogs of war,\
 That this foul deed shall smell above the earth\
-With carrion men, groaning for burial.\
-\
-\
+With carrion men, groaning for burial.  
+
+
 O judgement, thou art fled to brutish beasts,\
-And men have lost their reason!\  
+And men have lost their reason!  
 
-**MESSALA**
-O hateful Error, Melancholy's child
-
-
-
-
-
-
-
+**MESSALA**  
+O hateful Error, Melancholy's child  
