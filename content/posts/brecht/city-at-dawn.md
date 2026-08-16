@@ -3,7 +3,7 @@ title: "City at Dawn by Bertolt Brecht"
 date: 2022-09-06T04:19:25Z
 ---
 
-From Scene Four of "The Good Person of Szechwan" by Bertolt Brecht - John Willet Translation.  
+From Scene Four of *"The Good Person of Szechwan"* by Bertolt Brecht - John Willet Translation.  
 
 **Shen Teh**, *to the audience* **:** I had never seen the city at dawn. These
 were the hours when I used to lie with my filthy blanket over my head,

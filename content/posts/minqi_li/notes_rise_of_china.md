@@ -8,7 +8,6 @@ draft: false
 Notes on a terrific work in political economy. Extremely pertinent to our
 present. 
 
-
 "Suppose, in response to the current crisis of neoliberalism, global capitalism
 is restructured with a greater degree of state intervention and more equal
 distribution of income (is this not what much of the world's intellectual Left
@@ -17,10 +16,10 @@ three decades, there would be a new global profitability crisis? What should the
 world's working classes (and the intellectual Left) do then? Wait for another
 round of 30 years of neoliberalism to play itself out?"     
 
-Here Minqi succinctly captures the low-hanging demands of many political
+**Here Minqi succinctly captures the low-hanging demands of many political
 commentators, who, having devoted ever more explanatory leverage to
 neoliberalism, seem to have settled for modest targets in their political
-philosophy. 
+philosophy.**
 
 "These movements of dynamic balances have led to successive "systemic
 cycles":the "long fifteenth-sixteenth century" (1350-1630) based on the
@@ -44,16 +43,16 @@ gap in per capita GDP between China and the leading core states was about 2:1.
 By 1950, the gap widened to about 20:1 and China was reduced to being among the
 poorest populations in the world." 
 
-Following China's 'Century of Humiliation' -- thrashing through imperial exploits,
+**Following China's 'Century of Humiliation' -- thrashing through imperial exploits,
 world war II, and it's own civil war, China was reduced to a state of widespread
 poverty. It's recovery to the present day, is one of the greatest feats
-of humankind - of all times.       
+of humankind - of all times.**       
 
 "Between 1960 and 1980, China's life expectancy at birth rose by 30.5 years.
 This was an improvement greater than the world average, every country group, and
 every selected country."    
 
-".... China had followed the classic Soviet strategy of "mercantilist
+"... China had followed the classic Soviet strategy of "mercantilist
 semi-withdrawal" in the form of state ownership of the means of production and
 centralized economic planning, in effect, complete state monopoly over the
 domestic market."      
@@ -65,7 +64,7 @@ managerial staff in the now state-owned enterprises."
 remained a part of the capitalist world-economy and was bound by the same basic
 laws of motion ("the law of value") of the capitalist world-economy."     
 
-Despite being based on a different socialisation model, market dynamics are unavoidable if
+**Despite being based on a different socialisation model, market dynamics are unavoidable if
 integration with the remaining world is sought. Firms and enterprises must still
 compete in the same space, set prices, and exchange commodities with nations
 from capitalist countries, whom overwhelmingly dominated trade. In this way, the
@@ -81,7 +80,7 @@ benefits of such relations. Growth, development is on the agenda; people need
 housing, clean water, education, health and enjoyment. No doubt, a world of
 socialist states creates a vastly different environment, with laws of value who's
 interaction requires explication and understanding - what could such a
-socialisation look like? 
+socialisation look like?**  
 
 Quoting Vicente Navarro: "... contrary to prevalent belief, the level of health
 of a population is not primarily the result of medical interventions... There is
@@ -90,8 +89,7 @@ health of the population is the outcome of a whole set of social, economic, and
 political interventions, among which medical care plays a minor role... Thus
 health indicators are good indicators of social and economic development."   
 
-This brings to memory the foundation text on inequality and health indicates, "The Spirit Level by Richard Wilkinson
-and Kate Pickett".    
+**This brings to memory the foundation text on inequality and health indicates, "*The Spirit Level* by Richard Wilkinson and Kate Pickett".**  
 
 "However, the historical tendency indicated that a growing proportion of the
 bureaucratic and technocratic elites tended to become, and some former
@@ -135,7 +133,7 @@ workers to accept lower wages and worse working conditions by threatening to
 move their factories of office to cheap labor areas such as China, without
 actual movement of physical capital."   
 
-Alan Greenspan's "traumatized worker"... 
+**Alan Greenspan's "traumatized worker"...** 
 
 "After years of rapid world economic growth, global excess production capacity
 is being depleted, while there has been growing upwards pressure on energy and
@@ -149,10 +147,10 @@ below or near zero for years. The resultant massive increase in money supply
 helped to stabilize the stock market but it soon led to a much bigger housing
 bubble, which in turn led to a new round of debt-financed consumption boom."   
 
-In terms of near zero interest rates, this is a chillingly similar scenario to
+**In terms of near zero interest rates, this is a chillingly similar scenario to
 that which has transpired in Australia during the recent debt-heavy housing
 boom. Australia's household debt-to-gdp ratio is at a shocking figure of ~130%.
-A short history of Doom.    
+A short history of Doom.**    
 
 "With stagnant real incomes and wages, the expansion of the US private
 consumption has been financed largely by household borrowings [credit].... US
@@ -188,20 +186,20 @@ semi-peripheral states. From 1980 to 2000, Latin America saw its income index
 East and North Africa saw its income index fall from 75 to 64. The eastern
 European index collapsed from 129 in 1989 to 82 in 2000."
 
-Taking Argentina as an example, the repeated 'free market openings' and
+**Taking Argentina as an example, the repeated 'free market openings' and
 'privatization efforts' failed to hoist the nation from its debt peonage,
 rather, worsening the situation over the course of decades. Each failed round of
 austerity and debt restructuring was followed by another round of crisis, who's
 remedy was the prescription of yet another round of the same medication -- a
 cynical and demented situation for millions of workers. One had to begin
-wondering whom this US-IMF approach was actually aiding? 
+wondering whom this US-IMF approach was actually aiding?** 
 
 "According to one report, about two million high and middle-ranking, current and
 retired Chinese government officials and their relatives own about 70 percent of
 the total private wealth (savings, stocks, bonds, houses and foreign
 exchanges) in China."    
 
-An approximation which urgently needs to be followed up on.    
+**An approximation which urgently needs to be followed up on.**
 
 "For the capitalist world-economy, the problem of China lies with its huge size.
 China has a labor force that is larger than the total labor force in all of the
@@ -236,9 +234,9 @@ households, business, and governments, ending with a general economic collapse.
 Indeed, the surge in the US's real interest rate immediately led to the debt
 crisis throughout Latin America, Africa, and eastern Europe."      
 
-Contrary to the notion that these countries entered crises under the so called
-'weight of their own contradictions and endless political repressions'.. a
-mysterious and unserious line of thought.   
+**Contrary to the notion that these countries entered crises under the so called
+'weight of their own contradictions and endless political repressions'... a
+mysterious and unserious line of thought.**
 
 "This understanding of systemic processes is consistent with the historical
 materialist argument that all social systems are historical. It follows that
@@ -254,5 +252,3 @@ at levels much higher than not only the world average but also their own
 bio-capacities. But the world as a whole has already overshot its ecological
 limit, and it can hardly survive the "rise of China" or the "rise of India" in
 such a manner."    
-
-

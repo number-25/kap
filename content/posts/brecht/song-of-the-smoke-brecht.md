@@ -4,7 +4,7 @@ date: 2022-09-04T02:51:26Z
 
 ---
 
-From Scene One of "The Good Person of Szechwan" - John Willet translation   
+From Scene One of *"The Good Person of Szechwan"* --- John Willet translation   
 
 **The Grandfather:**   
 Once I believed intelligence would aid me
@@ -25,28 +25,11 @@ How can intelligence compete with hunger?
 		Into ever colder coldness you'll  
 		Blow away.  
 **The niece:**  
-	+ The old, they say, find little fun in hoping.  
-	+ Time's what they need, and time begins to press.  
-	+ But for the young, they say, the gates are open.  
-	+ They open, so they say, on nothingness.  
-		+ And I too say: drop it!  
-		+ Like smoke twisting grey  
-		+ Into ever colder coldness you'll  
-		+ Blow away.   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The old, they say, find little fun in hoping.  
+Time's what they need, and time begins to press.  
+But for the young, they say, the gates are open.  
+They open, so they say, on nothingness.  
+And I too say: drop it!  
+Like smoke twisting grey  
+Into ever colder coldness you'll  
+Blow away.   

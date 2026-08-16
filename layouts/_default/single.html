@@ -1,0 +1,13 @@
+{{ partial "header" . }}
+{{ partial "nav" . }}
+<div class="container">
+  {{ if .Params.Date  }}
+    <h2 class="subtitle is-6">{{ .Date.Format "January 2, 2006" }}</h2>
+  {{ end }}
+  <h1 class="subtitle is-size-4-mobile is-size-3-desktop">{{ .Title }}</h1>
+  <div class="content">
+    {{ .Content }}
+  </div>
+</div>
+{{ partial "jsshare" . }}
+{{ partial "footer" . }}

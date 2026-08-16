@@ -4,7 +4,7 @@ date: 2025-02-01T23:08:10Z
 draft: false
 ---
 
-Breeding Superman: Nietzsche, Race and Eugenics in Edwardian and Interwar Britian, by Dan Stone 
+*Breeding Superman: Nietzsche, Race and Eugenics in Edwardian and Interwar Britain*, by Dan Stone 
 
 ### Introduction
 
@@ -75,10 +75,10 @@ Bolshevism ‘is a religion and a faith’."
   
 "He never gave up, however, his search for a suitable refutation to communism."
 
-In the above quotations, we see the lines of thought, far more common than one
-often acknowledges, which converge around the refutation of the commmunist
-movement; racial theory, social darwinism, anti-democratic politics, and the
-apologia of imperialism.
+**In the above quotations, we see the lines of thought, far more common than one
+often acknowledges, which converge around the refutation of the communist
+movement; racial theory, social Darwinism, anti-democratic politics, and the
+apologia of imperialism.**
 
 ### Anthony Mario Ludovici: A 'Light-Weight Superman'
 "While it would be overstating the case to claim that Ludovici’s writings were
@@ -86,7 +86,7 @@ widely influential, he was well known as a public figure, whose ideas, particula
 Whiggish view of history which still dominates interpretations of British fascism--- that its failure was a result of the inherent strength of British parliamentary
 institutions – means that he has long been ignored. Ludovici’s idiosyncratic
 blend of Förster-Nietzscheanism, Lamarckianism, social Darwinism, anti-
-semitism, anti-feminism, monarchism and aristocratic conservatism was,
+Semitism, anti-feminism, monarchism and aristocratic conservatism was,
 however, not as ridiculous to Edwardian minds as it is to ours today; it is easy
 to dismiss Ludovici as a crank, and therefore miss the fact that many of his ideas
 chimed in with those being espoused by people on the left as well as on the right
@@ -142,7 +142,7 @@ that the potential for violence exists across Europe – not just in Germany--�
 that dreams of purification, cleansing, health and the aesthetic modelling of
 human beings are common and old ones."
 
-Ideas which are part of the fabric of European intellectual history.  
+**Ideas which are part of the fabric of European intellectual history.**
 
 ### Conclusion 
 
@@ -164,8 +164,7 @@ many scientists argue against explicit racism but maintain that innate differenc
 "Furthermore, there were scientists who responded to *The Bell Curve* in a
 way that supported Russell Jacoby and Naomi Glauberman’s claim that the
 book ‘gives a sophisticated voice to a repressed and illiberal sentiment: a belief
-that ruinous divisions in society are sanctioned by nature itself’. In other words, the ideas that motivated the eugenicists 100 years ago are still with us.
-There are those who cannot accept that racial differences are more chimerical
+that ruinous divisions in society are sanctioned by nature itself’. In other words, the ideas that motivated the eugenicists 100 years ago are still with us.  There are those who cannot accept that racial differences are more chimerical
 than real, and that only a complex interplay of genetics and culture, that is,
 heritability tout court and not heritability reduced to genes, might be the basis
 of human heredity and evolution. And this despite the long dominance of
@@ -175,7 +174,7 @@ supermen...’"
 
 "Richard Lynn, for example, one of the most notorious evolutionary
 psychologists, unproblematically accepted the conclusions of *The Bell Curve* in
-his review of it for The Times. He wrote that ‘The brutal truth is that many of
+his review of it for *The Times*. He wrote that ‘The brutal truth is that many of
 the chronic unemployed are mentally incapable of learning the skills increasingly required in advanced industrial economies’; that ‘The threat to social
 cohesion posed by the underclass is exacerbated by racial division’ because the
 lower IQ of blacks than whites (amply documented by Murray and
@@ -203,15 +202,9 @@ now it is acceptable – and not just among evolutionary psychologists – to ta
 of the ‘underclass’. Even the liberal mainstream, to the extent that such a thing
 is left, devotes its sympathy to the ‘underclass’, thereby stigmatising even as
 they seek to help. And while even the most utopian of geneticists no longer talk
-of breeding supermen, they do talk of the elimination of the underclass, through medicine and pre-natal examination rather than the ‘lethal chamber’.
-The cocktail of Nietzsche, race, and eugenics is no longer a social and cultural lubricant, yet we still suffer from its deleterious effects: our eyes are bleary,
+of breeding supermen, they do talk of the elimination of the underclass, through medicine and pre-natal examination rather than the ‘lethal chamber’. The cocktail of Nietzsche, race, and eugenics is no longer a social and cultural lubricant, yet we still suffer from its deleterious effects: our eyes are bleary,
 and in our weariness it remains easier to blame the genes of individuals and
 groups for their social dispossession rather than to question the structures that
 make up divisive societies." 
 
-
-
-See the [Class Letters site](https://classletters.org/posts/nietzsche/the-lethal-chamber-eugenics/) for a chapter long excerpt on "The 'Lethal Chamber' in Eugenic Thought'". 
-
-
-
+See the [Class Letters site](https://classletters.org/posts/nietzsche/breeding-superman-eugenics/) for a chapter long excerpt on "The 'Lethal Chamber' in Eugenic Thought'". 

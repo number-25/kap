@@ -1,0 +1,9 @@
+<section class="section">
+  <div class="container has-text-centered">
+      Kobe <i> and </i> Pascal
+      <!-- <p>{{ .Site.Copyright | safeHTML }}</p> -->
+  </div>
+</section>
+{{ if .Site.Config.Services.GoogleAnalytics.ID }}
+{{ template "_internal/google_analytics.html" . }}
+{{ end }}

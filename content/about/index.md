@@ -1,7 +1,7 @@
 ---
 title: "About"
 author: "<no value>"
-#menu: "main"
+menu: "main"
 draft: false
 ---
 

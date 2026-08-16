@@ -25,11 +25,13 @@ vegetation, rain pressed down on them, and drifting snow enwrapped them. No
 matter how often they cried on the anniversaries and remembrance days, the
 eastern wind would not carry their cries to Galicia and Eastern Prussia, to the
 grass-grown hillocks of the brotherly graves.  
+
 The grass grows over the graves, time overgrows the pain. The wind blew away
 the traces of those who had departed; time blows away the bloody pain and the
 memory of those who did not live to see their dear ones again --- and will not
 live, for brief is human life, and not for long is any of us granted to tread
 the grass.  
+
 The wife of Prokhor Shamil beat her head against the hard ground and chewed the
 earthen floor of her hut with her teeth, as she saw her brother-in-law, Martin
 Shamil, caressing his pregnant wife or giving his children presents and
@@ -46,7 +48,7 @@ you drop worn out with weariness; and no-one will say to you as once he said:
 'Don't worry, Aniska, we'll manage somehow!'    
 
 Afterwards this incident was transformed into an heroic exploit. Kruchkov, a
-favourite of the company commander, told his story and recieved the Cross of St.
+favourite of the company commander, told his story and received the Cross of St.
 George. His comrades remained in shadow. The hero was sent to the divisional
 staff headquarters, where he lived in clover until the end of the war,
 receiving three more crosses because influential women and officers came from
@@ -60,6 +62,7 @@ stared admiringly at the pocked-marked, brigand face of the cossack hero.
 The Tsar visited headquarters, and Kruchkov was taken to be shown to him. The
 sleepy Emperor looked Kruchkov over as if he were a horse, blinked his heavy
 eyelids, and slapped the cossack on the back. 'Good cossack lad!' he marked, and turning to his suite, he asked for some Seltzer water.   
+
 Kruchkov's shaggy head was continually pictured in the
 newspapers and journals. There were Kruchkov brands of cigarettes. The
 merchants of Nizhni-Novgorod presented him with a gold-mounted firearm.    
@@ -67,6 +70,6 @@ And what really happened? Men has clashed on the field of death, and, embraced
 by mortal terror, had fought, struck, inflicted blind blows on one another,
 wounded one another's horses; then they had turned and fled, frightened by a
 shot which had killed one of their number. They had ridden away mortally
-mutilated.   
-And it was called an heroic exploit.     
+mutilated.  
 
+And it was called an heroic exploit.     
