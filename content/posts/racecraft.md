@@ -130,7 +130,7 @@ his delight to find her out walking on a fine day. He grinned because
 the fine carriage and fittings led him to assume that she was the
 servant of his own betters, tending the child of his betters."
 
-**When attempting to discover a real scientific entity, the entity itself cannot be part of ones analysis itself, for then one is presuming that it already exists, before one can ever prove it. The situation is circular."
+**When attempting to discover a real scientific entity, the entity itself cannot be part of ones analysis itself, for then one is presuming that it already exists, before one can ever prove it. The situation is circular.**
 
 "Needless to
 add, no one ventured to ask the most embarrassing question of all, the one

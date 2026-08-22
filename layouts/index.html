@@ -22,8 +22,14 @@
               </span>
               <p style="padding:0 5px"></p>more</p>
             </a>
+            </div>
+            <!-- Display tags -->
+            {{if .Params.tags}}
+                {{ range .Params.tags }}
+                    <a class="tag" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">#{{.}}</a>
+                {{ end }}
             {{ end }}
-          </div>
+            {{ end }}
       </article>
       {{ end }}
       {{ end }}
