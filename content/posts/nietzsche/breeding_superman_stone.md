@@ -2,6 +2,7 @@
 title: "Notes from 'Breeding Superman: Nietzsche, Race and Eugenics in Edwardian and Interwar Britain'"
 date: 2025-02-01T23:08:10Z
 draft: false
+tags: ['political-history', 'intellectual-history', 'fascism', 'english-history', 'nietzsche', 'race-theory', 'eugenics']
 ---
 
 *Breeding Superman: Nietzsche, Race and Eugenics in Edwardian and Interwar Britain*, by Dan Stone 

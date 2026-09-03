@@ -1,6 +1,8 @@
 ---
 title: "The Eternal Now by Paul Tillich"
 date: 2022-09-21T01:07:40Z
+draft: false
+tags: ['theology', 'christianity', 'philosophy', 'paul-tillich']
 ---
 
 What follows are some of my favorite excerpts from the Christian Theologian Paul Tillich's book *The Eternal Now*.    

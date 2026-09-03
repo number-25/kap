@@ -1,5 +1,5 @@
 ---
-title: "Note on Racecraft by Karen E. Fields and Barbara J. Fields"
+title: "Notes on Racecraft by Karen E. Fields and Barbara J. Fields"
 date: 2026-08-21T14:59:01+10:00
 tags: ["racecraft", "race-theory", "racism", "sociology", "history", "anthropology-of-the-present"]
 draft: false

@@ -2,6 +2,7 @@
 title: "Julius Caesar by William Shakespeare"
 date: 2025-03-22T05:23:38Z
 draft: false
+tags: ['poetry', 'literature', 'historical-fiction', 'shakespeare']
 ---
 
 A few beautiful lines from *Julius Caesar* 

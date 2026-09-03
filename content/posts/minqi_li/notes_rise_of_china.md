@@ -3,6 +3,7 @@ title: "Notes on Minqi Li's 'The Rise of China and the Demise of the Capitalist
 World Economy"
 date: 2023-11-10T01:52:54Z
 draft: false
+tags: ['political-economy', 'china', 'development-economics', 'economics', 'marxism', 'world-systems-theory']
 ---
 
 Notes on a terrific work in political economy. Extremely pertinent to our

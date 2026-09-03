@@ -5,7 +5,13 @@
     <h2 class="subtitle is-6">{{ .Date.Format "January 2, 2006" }}</h2>
   {{ end }}
   <h1 class="subtitle is-size-4-mobile is-size-3-desktop">{{ .Title }}</h1>
-  <div class="content">
+    <!-- Display tags -->
+    {{if .Params.tags}}
+        {{ range .Params.tags }}
+        <a class="tag" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">#{{.}}</a>
+        {{ end }}
+    {{ end }}
+  <div class="content" style="margin-top: 20px;">
     {{ .Content }}
   </div>
 </div>

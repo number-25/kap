@@ -2,6 +2,7 @@
 title: "Unique by Castoriadis"
 date: 2023-06-16T04:06:44Z
 draft: false
+tags: ['philosophy']
 ---
 
 *It is possible that at times people drape themselves in Roman tunics to play

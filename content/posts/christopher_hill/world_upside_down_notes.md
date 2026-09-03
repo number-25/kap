@@ -2,11 +2,11 @@
 title: "Notes on Christopher Hill's 'The World Turned Upside Down' " 
 date: 2024-06-01T00:36:30Z
 draft: false 
-tags: ["english revolution", "christopher hill", "communism", "english history"]     
+tags: ["english-revolution", "christopher-hill", "communism", "english-history"]     
 ---
 
 Some quotes, notes and scribblings on a now famous book on the age of infant
-Capitalism in England -- "The World Turned Upside Down" by Christopher Hill. It
+Capitalism in England --- *The World Turned Upside Down* by Christopher Hill. It
 is remarkable how contemporary these seedlings of revolution feel, the
 ethics, shared understandings of power, and the materialism of so much of the so
 called sacred world of authority. These folks were far from misunderstanding

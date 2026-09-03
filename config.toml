@@ -7,7 +7,14 @@ copyright = "; <a href="
 disqusShortname = ""
 googleAnalytics = ""
 
+[taxonomies]
+category = 'categories'
+tag = 'tags'
+
 [params]
+
+[[params.social]]
+  url = "tags"
 
 [author]
   name = "Dejan Basic"

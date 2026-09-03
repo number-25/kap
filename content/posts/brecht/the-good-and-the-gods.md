@@ -1,6 +1,7 @@
 ---
 title: "The Good and the Gods by Bertolt Brecht"
 date: 2022-09-06T04:29:16Z
+tags: ["brecht", "poetry", "proletariat"]
 ---
 
 From the Interlude of *"The Good Person of Szechwan"* by Bertolt Brecht --- John Willet Translation.  
@@ -18,7 +19,7 @@ powerless.
 So why can't the gods launch a great operation  
 With bombers and battleships, tanks and destroyers  
 And rescue the good by a ruthless invasion?  
-Then mabe the wicked would cease to annoy use.  
+Then maybe the wicked would cease to annoy use.  
 \
 *She puts on Shui Ta's costume and takes a few steps in his way of walking*  
 \
@@ -39,6 +40,6 @@ One needs the toughness which elsewhere builds empires.
 Except twelve others be trampled down  
 The unfortunate cannot be helped.  
 So why can't the gods make a simple decision  
-That goodness must conquer in spite of its weakness? --  
+That goodness must conquer in spite of its weakness? ---  
 Then back up the good with an armoured division  
 Command it to: 'fire!' and not tolerate meekness?   

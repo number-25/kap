@@ -1,6 +1,7 @@
 ---
 title: "Airmen Not Wanted by Bertolt Brecht"
 date: 2022-09-04T03:22:06Z
+tags: ["brecht", "poetry", "proletariat"]
 ---
 
 From Scene Three of *"The Good Person of Szechwan"* by Bertolt Brecht - John Willet Translation.   

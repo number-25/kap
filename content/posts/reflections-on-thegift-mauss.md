@@ -2,13 +2,14 @@
 title: "Some Reflections on 'The Gift' by Marcel Mauss"
 date: 2022-12-24T02:40:37Z
 draft: false
+tags: ['anthropology', 'marcel-mauss', 'economics', 'exchange-value']
 ---
 
 A few excerpts from the tremendous text.    
 
 "These peoples [Melanesian tribes] possess an extra domestic economy and a very
 developed system of exchange that throbs with life more intensely and more
-precipitantly perhaps than the one that our peasants or the fishing villages
+precipitately perhaps than the one that our peasants or the fishing villages
 along our coasts were familiar with maybe not even a hundred years ago. They
 have an extensive economic life, going beyond the confines of the islands and
 their dialects, which represents a considerable trade. Through gifts made and
@@ -17,7 +18,7 @@ reciprocated they have robustly replaced a system of buying and selling."
 "Each of these precious things, these signs of wealth possesses --- as in the
 Trobriand Islands --- its individuality, its name, it's qualities, its power.
 The large abalone shells, the shields that are covered with these shells, the
-belts and the blankets that are decorated with them, the blankets themsevles
+belts and the blankets that are decorated with them, the blankets themselves
 that also bear emblems covered with faces, eyes, and animal and human figures
 that are woven and embroidered on them --- all are living beings. The houses,
 the beams, and the decorated walls are also beings. Everything speaks --- the
@@ -31,23 +32,23 @@ magical and religious symbol of rank and plenty. The dishes and spoons used
 solemnly for eating, and decorated, carved, and emblazoned with the clan's totem
 or the totem of rank, are animate things. They are replicas of the
 inexhaustible instruments, the creators of food, that the spirits gave to one's
-ancestors. They are themselves deemed to have fairylike qualities. Thus things
+ancestors. They are themselves deemed to have fairy-like qualities. Thus things
 are mixed up with spirits, their originators, and eating instruments with food.
 The dishes of the Kwakiutl and the spoons of the Haida are essential items that
 circulate according to very strict rules and are meticulously shared out among
 the clans and the families of the chiefs."    
 
 "It is in the nature of food to be shared out. Not to share it with others is to
-'killits essence', it is to destroy it both for oneself and for others. This is
+'kill its essence', it is to destroy it both for oneself and for others. This is
 the interpretation, both materialist and idealist, that Brahminism has given to
 charity and hospitality. Wealth is made to be given away. If there were no
-Brahminds to recieve it, 'vain would be the riches of the rich'. 'He who eats
+Brahminds to receive it, 'vain would be the riches of the rich'. 'He who eats
 without knowledge kills the food, and once it is eaten, it kills him.' Avarice
 breaks the circle of the law; rewards and foods are perpetually reborn from one
 another."    
 
 "It is possible to extend these observations to our own societies. A
-considerable part of our morality and our lives themsevles are still permeated
+considerable part of our morality and our lives themselves are still permeated
 with this same atmosphere of the gift, where obligation and liberty intermingle.
 Fortunately, everything is still not wholly categorized in terms of buying and
 selling. Things till have have sentimental as well as venal value, assuming
@@ -91,7 +92,7 @@ To refuse him this reward is to make him become idle or less productive."
 throwing a little light upon the path that our nations must follow, both in
 their morality and in their economy."     
 
-"It is by considering the whole entity that we could percieve what is essential,
+"It is by considering the whole entity that we could perceive what is essential,
 the way everything moves, the living aspect, the fleeting moment when society,
 or men, become sentimentally aware of themselves and of their situation in
 relation to others."   

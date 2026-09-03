@@ -1,7 +1,8 @@
 ---
 title: "And Quite Flows the Don"
 date: 2023-04-21T10:33:38Z
-draft: 
+draft: false 
+tags: ['literature', 'soviet-literature', 'ussr', 'sholokhov', 'historical-fiction']
 ---
 
 By Mikhail Sholokhov,   

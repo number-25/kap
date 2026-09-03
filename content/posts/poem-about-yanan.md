@@ -1,8 +1,8 @@
 ---
 title: "A Poem about Yan'an"
 date: 2022-09-03T05:09:53Z
-
-
+draft: false
+tags: ['poetry', 'china']
 ---
 
 Beside the Yellow River, on the bank of the waters of the Yan,   
@@ -16,13 +16,3 @@ to see thousands of hills, everywhere red.
 ![Old Yan'an](/images/old-yan-an.jpg)   
 
 ![Modern day Yan'an](/images/new-yan-an.png)     
-
-
-
-
-
-
-
-
-
-

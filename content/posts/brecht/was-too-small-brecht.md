@@ -1,6 +1,7 @@
 ---
 title: "Was Too Small by Bertolt Brecht"
 date: 2022-09-06T09:19:52Z
+tags: ["brecht", "poetry", "proletariat"]
 ---
 
 **Shen Teh:**   
@@ -43,6 +44,3 @@ O gods, for your vast projects
 I, poor human, was too small.    
 
 ![Wings of Desire](/images/wings-on-statue.jpg)
-
-
-

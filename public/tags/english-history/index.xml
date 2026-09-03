@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>English History on Kobe and Pascal</title>
+		<title>English-History on Kobe and Pascal</title>
 		<link>https://kobeandpascal.com/tags/english-history/</link>
-		<description>Recent content in English History on Kobe and Pascal</description>
+		<description>Recent content in English-History on Kobe and Pascal</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
@@ -12,15 +12,22 @@
 			<copyright>; &lt;a href=</copyright>
 		
 		
-			<lastBuildDate>Sat, 01 Jun 2024 00:36:30 +0000</lastBuildDate>
+			<lastBuildDate>Sat, 01 Feb 2025 23:08:10 +0000</lastBuildDate>
 		
 			<atom:link href="https://kobeandpascal.com/tags/english-history/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Notes from &#39;Breeding Superman: Nietzsche, Race and Eugenics in Edwardian and Interwar Britain&#39;</title>
+				<link>https://kobeandpascal.com/posts/nietzsche/breeding_superman_stone/</link>
+				<pubDate>Sat, 01 Feb 2025 23:08:10 +0000</pubDate>
+				<guid>https://kobeandpascal.com/posts/nietzsche/breeding_superman_stone/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Breeding Superman: Nietzsche, Race and Eugenics in Edwardian and Interwar Britain&lt;/em&gt;, by Dan Stone&lt;/p&gt;&#xA;&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;&amp;ldquo;My contention is that in Britain the ideas existed without the movement, even&#xA;before the rise of fascism in Italy and Nazism in Germany.  Historians are&#xA;correct to note that fascism was squeezed out of the political process in the&#xA;interwar period. But I also argue that this outcome was by no means as&#xA;inevitable as the Whiggish historiography suggests, especially in the context&#xA;of the radical right before 1914. The manifold, radical ideas that feed fascism&amp;mdash; whether or not they subsequently guide it in power is not here the question&amp;mdash;existed in abundance in Britain, especially in the Edwardian cultural sphere,&#xA;as I demonstrate below. British fascism failed not because it was an imitative&#xA;movement, but because mainstream conservatism did not need to co-opt its ideas&#xA;in order to remain in power.&amp;rdquo;&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Notes on Christopher Hill&#39;s &#39;The World Turned Upside Down&#39; </title>
 				<link>https://kobeandpascal.com/posts/christopher_hill/world_upside_down_notes/</link>
 				<pubDate>Sat, 01 Jun 2024 00:36:30 +0000</pubDate>
 				<guid>https://kobeandpascal.com/posts/christopher_hill/world_upside_down_notes/</guid>
-				<description>&lt;p&gt;Some quotes, notes and scribblings on a now famous book on the age of infant&#xA;Capitalism in England &amp;ndash; &amp;ldquo;The World Turned Upside Down&amp;rdquo; by Christopher Hill. It&#xA;is remarkable how contemporary these seedlings of revolution feel, the&#xA;ethics, shared understandings of power, and the materialism of so much of the so&#xA;called sacred world of authority. These folks were far from misunderstanding&#xA;brutes, mean multitudes. They were people fighting for a better life, and they&#xA;knew in their bones they deserved it.&lt;/p&gt;</description>
+				<description>&lt;p&gt;Some quotes, notes and scribblings on a now famous book on the age of infant&#xA;Capitalism in England &amp;mdash; &lt;em&gt;The World Turned Upside Down&lt;/em&gt; by Christopher Hill. It&#xA;is remarkable how contemporary these seedlings of revolution feel, the&#xA;ethics, shared understandings of power, and the materialism of so much of the so&#xA;called sacred world of authority. These folks were far from misunderstanding&#xA;brutes, mean multitudes. They were people fighting for a better life, and they&#xA;knew in their bones they deserved it.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

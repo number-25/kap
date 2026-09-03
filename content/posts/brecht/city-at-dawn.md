@@ -1,6 +1,7 @@
 ---
 title: "City at Dawn by Bertolt Brecht"
 date: 2022-09-06T04:19:25Z
+tags: ["brecht", "poetry", "proletariat"]
 ---
 
 From Scene Four of *"The Good Person of Szechwan"* by Bertolt Brecht - John Willet Translation.  
@@ -21,5 +22,3 @@ group waiting*: Good morning! Here is your rice! *She shares it out, then
 notices Wang*: Good morning, Wang. I am light-headed today. All the way I
 looked at my reflection in the shop windows, and now I would like to buy myself
 a shawl. *After a short hesitation*: I should so like to look beautiful.  
-
-
