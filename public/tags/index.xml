@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on Kobe and Pascal</title>
-		<link>https://kobeandpascal.com/tags/</link>
+		<link>http://localhost:1313/tags/</link>
 		<description>Recent content in Tags on Kobe and Pascal</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,287 +12,308 @@
 			<copyright>; &lt;a href=</copyright>
 		
 		
-			<lastBuildDate>Sat, 05 Sep 2026 13:44:07 +1000</lastBuildDate>
+			<lastBuildDate>Sat, 12 Sep 2026 14:25:11 +1000</lastBuildDate>
 		
-			<atom:link href="https://kobeandpascal.com/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Monopoly</title>
+				<link>http://localhost:1313/tags/monopoly/</link>
+				<pubDate>Sat, 12 Sep 2026 14:25:11 +1000</pubDate>
+				<guid>http://localhost:1313/tags/monopoly/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Political-Philosophy</title>
+				<link>http://localhost:1313/tags/political-philosophy/</link>
+				<pubDate>Sat, 12 Sep 2026 14:25:11 +1000</pubDate>
+				<guid>http://localhost:1313/tags/political-philosophy/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Technology</title>
+				<link>http://localhost:1313/tags/technology/</link>
+				<pubDate>Sat, 12 Sep 2026 14:25:11 +1000</pubDate>
+				<guid>http://localhost:1313/tags/technology/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Poetry</title>
-				<link>https://kobeandpascal.com/tags/poetry/</link>
+				<link>http://localhost:1313/tags/poetry/</link>
 				<pubDate>Sat, 05 Sep 2026 13:44:07 +1000</pubDate>
-				<guid>https://kobeandpascal.com/tags/poetry/</guid>
+				<guid>http://localhost:1313/tags/poetry/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Shakespeare</title>
-				<link>https://kobeandpascal.com/tags/shakespeare/</link>
+				<link>http://localhost:1313/tags/shakespeare/</link>
 				<pubDate>Sat, 05 Sep 2026 13:44:07 +1000</pubDate>
-				<guid>https://kobeandpascal.com/tags/shakespeare/</guid>
+				<guid>http://localhost:1313/tags/shakespeare/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Anthropology-of-the-Present</title>
-				<link>https://kobeandpascal.com/tags/anthropology-of-the-present/</link>
+				<link>http://localhost:1313/tags/anthropology-of-the-present/</link>
 				<pubDate>Fri, 21 Aug 2026 14:59:01 +1000</pubDate>
-				<guid>https://kobeandpascal.com/tags/anthropology-of-the-present/</guid>
+				<guid>http://localhost:1313/tags/anthropology-of-the-present/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>History</title>
-				<link>https://kobeandpascal.com/tags/history/</link>
+				<link>http://localhost:1313/tags/history/</link>
 				<pubDate>Fri, 21 Aug 2026 14:59:01 +1000</pubDate>
-				<guid>https://kobeandpascal.com/tags/history/</guid>
+				<guid>http://localhost:1313/tags/history/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Race-Theory</title>
-				<link>https://kobeandpascal.com/tags/race-theory/</link>
+				<link>http://localhost:1313/tags/race-theory/</link>
 				<pubDate>Fri, 21 Aug 2026 14:59:01 +1000</pubDate>
-				<guid>https://kobeandpascal.com/tags/race-theory/</guid>
+				<guid>http://localhost:1313/tags/race-theory/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Racecraft</title>
-				<link>https://kobeandpascal.com/tags/racecraft/</link>
+				<link>http://localhost:1313/tags/racecraft/</link>
 				<pubDate>Fri, 21 Aug 2026 14:59:01 +1000</pubDate>
-				<guid>https://kobeandpascal.com/tags/racecraft/</guid>
+				<guid>http://localhost:1313/tags/racecraft/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Racism</title>
-				<link>https://kobeandpascal.com/tags/racism/</link>
+				<link>http://localhost:1313/tags/racism/</link>
 				<pubDate>Fri, 21 Aug 2026 14:59:01 +1000</pubDate>
-				<guid>https://kobeandpascal.com/tags/racism/</guid>
+				<guid>http://localhost:1313/tags/racism/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Sociology</title>
-				<link>https://kobeandpascal.com/tags/sociology/</link>
+				<link>http://localhost:1313/tags/sociology/</link>
 				<pubDate>Fri, 21 Aug 2026 14:59:01 +1000</pubDate>
-				<guid>https://kobeandpascal.com/tags/sociology/</guid>
+				<guid>http://localhost:1313/tags/sociology/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Maya-Angelou</title>
-				<link>https://kobeandpascal.com/tags/maya-angelou/</link>
+				<link>http://localhost:1313/tags/maya-angelou/</link>
 				<pubDate>Sun, 16 Aug 2026 18:19:35 +1000</pubDate>
-				<guid>https://kobeandpascal.com/tags/maya-angelou/</guid>
+				<guid>http://localhost:1313/tags/maya-angelou/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Historical-Fiction</title>
-				<link>https://kobeandpascal.com/tags/historical-fiction/</link>
+				<link>http://localhost:1313/tags/historical-fiction/</link>
 				<pubDate>Sat, 22 Mar 2025 05:23:38 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/historical-fiction/</guid>
+				<guid>http://localhost:1313/tags/historical-fiction/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Literature</title>
-				<link>https://kobeandpascal.com/tags/literature/</link>
+				<link>http://localhost:1313/tags/literature/</link>
 				<pubDate>Sat, 22 Mar 2025 05:23:38 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/literature/</guid>
+				<guid>http://localhost:1313/tags/literature/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>English-History</title>
-				<link>https://kobeandpascal.com/tags/english-history/</link>
+				<link>http://localhost:1313/tags/english-history/</link>
 				<pubDate>Sat, 01 Feb 2025 23:08:10 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/english-history/</guid>
+				<guid>http://localhost:1313/tags/english-history/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Eugenics</title>
-				<link>https://kobeandpascal.com/tags/eugenics/</link>
+				<link>http://localhost:1313/tags/eugenics/</link>
 				<pubDate>Sat, 01 Feb 2025 23:08:10 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/eugenics/</guid>
+				<guid>http://localhost:1313/tags/eugenics/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Fascism</title>
-				<link>https://kobeandpascal.com/tags/fascism/</link>
+				<link>http://localhost:1313/tags/fascism/</link>
 				<pubDate>Sat, 01 Feb 2025 23:08:10 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/fascism/</guid>
+				<guid>http://localhost:1313/tags/fascism/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Intellectual-History</title>
-				<link>https://kobeandpascal.com/tags/intellectual-history/</link>
+				<link>http://localhost:1313/tags/intellectual-history/</link>
 				<pubDate>Sat, 01 Feb 2025 23:08:10 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/intellectual-history/</guid>
+				<guid>http://localhost:1313/tags/intellectual-history/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nietzsche</title>
-				<link>https://kobeandpascal.com/tags/nietzsche/</link>
+				<link>http://localhost:1313/tags/nietzsche/</link>
 				<pubDate>Sat, 01 Feb 2025 23:08:10 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/nietzsche/</guid>
+				<guid>http://localhost:1313/tags/nietzsche/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Political-History</title>
-				<link>https://kobeandpascal.com/tags/political-history/</link>
+				<link>http://localhost:1313/tags/political-history/</link>
 				<pubDate>Sat, 01 Feb 2025 23:08:10 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/political-history/</guid>
+				<guid>http://localhost:1313/tags/political-history/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Christopher-Hill</title>
-				<link>https://kobeandpascal.com/tags/christopher-hill/</link>
+				<link>http://localhost:1313/tags/christopher-hill/</link>
 				<pubDate>Sat, 01 Jun 2024 00:36:30 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/christopher-hill/</guid>
+				<guid>http://localhost:1313/tags/christopher-hill/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Communism</title>
-				<link>https://kobeandpascal.com/tags/communism/</link>
+				<link>http://localhost:1313/tags/communism/</link>
 				<pubDate>Sat, 01 Jun 2024 00:36:30 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/communism/</guid>
+				<guid>http://localhost:1313/tags/communism/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>English-Revolution</title>
-				<link>https://kobeandpascal.com/tags/english-revolution/</link>
+				<link>http://localhost:1313/tags/english-revolution/</link>
 				<pubDate>Sat, 01 Jun 2024 00:36:30 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/english-revolution/</guid>
+				<guid>http://localhost:1313/tags/english-revolution/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>China</title>
-				<link>https://kobeandpascal.com/tags/china/</link>
+				<link>http://localhost:1313/tags/china/</link>
 				<pubDate>Fri, 10 Nov 2023 01:52:54 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/china/</guid>
+				<guid>http://localhost:1313/tags/china/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Development-Economics</title>
-				<link>https://kobeandpascal.com/tags/development-economics/</link>
+				<link>http://localhost:1313/tags/development-economics/</link>
 				<pubDate>Fri, 10 Nov 2023 01:52:54 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/development-economics/</guid>
+				<guid>http://localhost:1313/tags/development-economics/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Economics</title>
-				<link>https://kobeandpascal.com/tags/economics/</link>
+				<link>http://localhost:1313/tags/economics/</link>
 				<pubDate>Fri, 10 Nov 2023 01:52:54 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/economics/</guid>
+				<guid>http://localhost:1313/tags/economics/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Marxism</title>
-				<link>https://kobeandpascal.com/tags/marxism/</link>
+				<link>http://localhost:1313/tags/marxism/</link>
 				<pubDate>Fri, 10 Nov 2023 01:52:54 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/marxism/</guid>
+				<guid>http://localhost:1313/tags/marxism/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Political-Economy</title>
-				<link>https://kobeandpascal.com/tags/political-economy/</link>
+				<link>http://localhost:1313/tags/political-economy/</link>
 				<pubDate>Fri, 10 Nov 2023 01:52:54 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/political-economy/</guid>
+				<guid>http://localhost:1313/tags/political-economy/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>World-Systems-Theory</title>
-				<link>https://kobeandpascal.com/tags/world-systems-theory/</link>
+				<link>http://localhost:1313/tags/world-systems-theory/</link>
 				<pubDate>Fri, 10 Nov 2023 01:52:54 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/world-systems-theory/</guid>
+				<guid>http://localhost:1313/tags/world-systems-theory/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Philosophy</title>
-				<link>https://kobeandpascal.com/tags/philosophy/</link>
+				<link>http://localhost:1313/tags/philosophy/</link>
 				<pubDate>Fri, 16 Jun 2023 04:06:44 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/philosophy/</guid>
+				<guid>http://localhost:1313/tags/philosophy/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Sholokhov</title>
-				<link>https://kobeandpascal.com/tags/sholokhov/</link>
+				<link>http://localhost:1313/tags/sholokhov/</link>
 				<pubDate>Fri, 21 Apr 2023 10:33:38 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/sholokhov/</guid>
+				<guid>http://localhost:1313/tags/sholokhov/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Soviet-Literature</title>
-				<link>https://kobeandpascal.com/tags/soviet-literature/</link>
+				<link>http://localhost:1313/tags/soviet-literature/</link>
 				<pubDate>Fri, 21 Apr 2023 10:33:38 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/soviet-literature/</guid>
+				<guid>http://localhost:1313/tags/soviet-literature/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Ussr</title>
-				<link>https://kobeandpascal.com/tags/ussr/</link>
+				<link>http://localhost:1313/tags/ussr/</link>
 				<pubDate>Fri, 21 Apr 2023 10:33:38 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/ussr/</guid>
+				<guid>http://localhost:1313/tags/ussr/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Maxim-Gorky</title>
-				<link>https://kobeandpascal.com/tags/maxim-gorky/</link>
+				<link>http://localhost:1313/tags/maxim-gorky/</link>
 				<pubDate>Sun, 26 Mar 2023 03:40:44 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/maxim-gorky/</guid>
+				<guid>http://localhost:1313/tags/maxim-gorky/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Quotes</title>
-				<link>https://kobeandpascal.com/tags/quotes/</link>
+				<link>http://localhost:1313/tags/quotes/</link>
 				<pubDate>Sun, 26 Mar 2023 03:40:44 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/quotes/</guid>
+				<guid>http://localhost:1313/tags/quotes/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Anthropology</title>
-				<link>https://kobeandpascal.com/tags/anthropology/</link>
+				<link>http://localhost:1313/tags/anthropology/</link>
 				<pubDate>Sat, 24 Dec 2022 02:40:37 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/anthropology/</guid>
+				<guid>http://localhost:1313/tags/anthropology/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Exchange-Value</title>
-				<link>https://kobeandpascal.com/tags/exchange-value/</link>
+				<link>http://localhost:1313/tags/exchange-value/</link>
 				<pubDate>Sat, 24 Dec 2022 02:40:37 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/exchange-value/</guid>
+				<guid>http://localhost:1313/tags/exchange-value/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Marcel-Mauss</title>
-				<link>https://kobeandpascal.com/tags/marcel-mauss/</link>
+				<link>http://localhost:1313/tags/marcel-mauss/</link>
 				<pubDate>Sat, 24 Dec 2022 02:40:37 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/marcel-mauss/</guid>
+				<guid>http://localhost:1313/tags/marcel-mauss/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Christianity</title>
-				<link>https://kobeandpascal.com/tags/christianity/</link>
+				<link>http://localhost:1313/tags/christianity/</link>
 				<pubDate>Wed, 21 Sep 2022 01:07:40 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/christianity/</guid>
+				<guid>http://localhost:1313/tags/christianity/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Paul-Tillich</title>
-				<link>https://kobeandpascal.com/tags/paul-tillich/</link>
+				<link>http://localhost:1313/tags/paul-tillich/</link>
 				<pubDate>Wed, 21 Sep 2022 01:07:40 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/paul-tillich/</guid>
+				<guid>http://localhost:1313/tags/paul-tillich/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Theology</title>
-				<link>https://kobeandpascal.com/tags/theology/</link>
+				<link>http://localhost:1313/tags/theology/</link>
 				<pubDate>Wed, 21 Sep 2022 01:07:40 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/theology/</guid>
+				<guid>http://localhost:1313/tags/theology/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Brecht</title>
-				<link>https://kobeandpascal.com/tags/brecht/</link>
+				<link>http://localhost:1313/tags/brecht/</link>
 				<pubDate>Tue, 06 Sep 2022 09:19:52 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/brecht/</guid>
+				<guid>http://localhost:1313/tags/brecht/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Proletariat</title>
-				<link>https://kobeandpascal.com/tags/proletariat/</link>
+				<link>http://localhost:1313/tags/proletariat/</link>
 				<pubDate>Tue, 06 Sep 2022 09:19:52 +0000</pubDate>
-				<guid>https://kobeandpascal.com/tags/proletariat/</guid>
+				<guid>http://localhost:1313/tags/proletariat/</guid>
 				<description></description>
 			</item>
 	</channel>
