@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Technology on Kobe and Pascal</title>
-		<link>http://localhost:1313/tags/technology/</link>
+		<link>https://kobeandpascal.com/tags/technology/</link>
 		<description>Recent content in Technology on Kobe and Pascal</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -14,12 +14,12 @@
 		
 			<lastBuildDate>Sat, 12 Sep 2026 14:25:11 +1000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://kobeandpascal.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Some scribblings on the Internet Con by Cory Doctorow</title>
-				<link>http://localhost:1313/posts/internet_con/</link>
+				<link>https://kobeandpascal.com/posts/internet_con/</link>
 				<pubDate>Sat, 12 Sep 2026 14:25:11 +1000</pubDate>
-				<guid>http://localhost:1313/posts/internet_con/</guid>
+				<guid>https://kobeandpascal.com/posts/internet_con/</guid>
 				<description>&lt;p&gt;Some of the notes I took whilst reading the book. Overall I found it an impeccable work, extraordinary. Concise yet deep and broad, energized and sophisticated. Focused. We need more of this!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&amp;ldquo;Nearly every industry in the world looks like the tech industry: dominated by a handful of giant companies that emerged out of a cataclysmic, forty-year die-off of smaller firms which either failed or were folded into the surviving giants.&amp;rdquo;&lt;/p&gt;</description>
 			</item>
 	</channel>
