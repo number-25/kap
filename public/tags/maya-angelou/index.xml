@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Maya-Angelou on Kobe and Pascal</title>
-		<link>http://localhost:1313/tags/maya-angelou/</link>
+		<link>https://kobeandpascal.com/tags/maya-angelou/</link>
 		<description>Recent content in Maya-Angelou on Kobe and Pascal</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -14,12 +14,12 @@
 		
 			<lastBuildDate>Sun, 16 Aug 2026 18:19:35 +1000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/maya-angelou/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://kobeandpascal.com/tags/maya-angelou/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Some notes from Maya Angelou&#39;s Rainbow in the Cloud</title>
-				<link>http://localhost:1313/posts/maya_angelou/rainbow_in_the_cloud/</link>
+				<link>https://kobeandpascal.com/posts/maya_angelou/rainbow_in_the_cloud/</link>
 				<pubDate>Sun, 16 Aug 2026 18:19:35 +1000</pubDate>
-				<guid>http://localhost:1313/posts/maya_angelou/rainbow_in_the_cloud/</guid>
+				<guid>https://kobeandpascal.com/posts/maya_angelou/rainbow_in_the_cloud/</guid>
 				<description>&lt;p&gt;A few notes from Maya Angelou&amp;rsquo;s &lt;em&gt;Rainbow in the Cloud&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;The Black Child must learn early to allow laughter&lt;br&gt;&#xA;to fill his mouth or the million small cruelties he&lt;br&gt;&#xA;encounters will congeal and clog his throat.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Awien commented on how &amp;ldquo;some people don&amp;rsquo;t survive being black, some people cannot take it&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;What child can resist a mother who laughs freely and often?&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reminds me of the expression; &amp;ldquo;the greatest gift that you can give your child is your happiness&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;</description>
 			</item>
 	</channel>
