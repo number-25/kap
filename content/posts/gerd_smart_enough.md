@@ -1,7 +1,8 @@
 ---
 title: "Are we smart enough, Gerd?"
-date: 2025-10-15T04:21:12Z
-draft: true
+date: 2026-10-15T04:21:12Z
+tags: ["heuristics", "ecological-rationality", "probability", "risk-literacy", "gerd-gigerenzer", "expertise"]
+draft: false
 ---
 
 A friend of mine once remarked that "We are not smart enough for our age
@@ -21,7 +22,7 @@ carbon dating, we can perform heart surgery. And yet, why do surveys find that m
 know how to weigh the benefits and dangers of simple medical screens, this ought to be their expertise? To
 resolve this butting of heads, the *we* here refers to sum of individuals
 navigating life as independent beings, as opposed to the totality of the human species and all of its
-information.  We can simultaneously know how to build atomic weaponry, whilst
+information and knowledge.  We can simultaneously know how to build atomic weaponry, whilst
 having the majority of our world be statistically illiterate. The two are mostly
 unrelated. On one hand the repository of all human knowledge, the other, the
 understanding embodied in a single person. 
@@ -45,7 +46,7 @@ As moderns, I don't think it misguided to say that we excel in putting forth
 predictions, and specifically, quantifying those predictions. Through our
 technologies of measurement, and our analytical methods, presenting
 probabilities of events are a regular, if not, default characteristic of our
-communication. Perhaps we could go so far as say they are an expectation at
+communication. Perhaps we could go so far as to say that they are an expectation at
 this stage. At our doctors offices we seek likelihoods of *x*, we hear
 weather-women telling us of rains and droughts, financial analysts the trends in
 exchange rates for next year. We are accustomed to think numerically and so the
@@ -56,7 +57,7 @@ granted, as concrete as heat from fire. Not all numbers are created equally, unf
 
 Looking at some examples, Gerd describes an interactive lecture that
 he presented to a room of gynecologists at a medical networking event. In
-Australia, the time it takes to receive a qualification to practice gynecology is 10
+Australia, the time it takes to receive a qualification in order to practice gynecology is 10
 years at minimum, with 12-14 years being more common. These are
 highly qualified individuals, perhaps the most so in our societies. He presented the room with a question; *"If a
 women undergoes a routine mammography screening, and tests positive, what is
@@ -84,10 +85,10 @@ our trust in them, and a trust that is held in high regard is a pillar for
 social cohesion. There is a really sinister side of this illiteracy---there are
 real people who bear the consequences of misdiagnosis---bodies are mutilated,
 made incontinent, subjected to hopeless chemotherapeutic treatments with
-troubling side effects, tremendous resources wasted along the way. These are
+troubling side effects, tremendous resources laid to waste along the way. These are
 all features of a technological age which should know better, which will know
 better. Gerd's insistence is that we should no longer view this as a hole that even more
-domain knowledge is needed to fill, but general, broad sweeping risk and statistical
+domain knowledge is needed to fill, but the beginning of general, broad sweeping risk and statistical
 literacy from the base up. I was shocked to read that sixth graders' performance with natural frequencies matched the performance of adults with probabilities graders[^4]. The organisation of information matters, not just it's existence!
 
 These shortcomings become even more urgent, and are compounded by the
@@ -114,25 +115,25 @@ perished due to their lack of understanding of this dimension of our new
 environments. Unfortunately, it is often those who bring us into the blizzard,
 that are convinced we are going to oasis. And so, living in an environment, a
 world that is flooding, and steeped in information represented in statistical
-and numerical form, it becomes a necessity to acquire an understanding of how
+and numerical form, it becomes an imperative to acquire an understanding of how
 to live well in this world; and just as we ignore the chill of the cold on a
 freezing night, when we ignore probabilities and risk literacy, it is as our own peril. How often do those who are triggered by online rage bait, reflect on whether they are
 being hoodwinked? Trapped in an artificial, algorithmically generated pocket of
 reality where the entire purpose is to present the events in question as being
 more important than they likely are, to amplify the probabilities of their
-actual existence. One cannot fault us entirely for our misreadings, it is not often in reality that we see an object or environment, and have to question what the likelihood that this environment *actually* exists is --- the object and environment are given, we see, smell, touch them. 
+actual existence. One cannot fault us entirely for our misreadings, it is not often in physical, blood-and-bone reality that we see an object or environment, and have to question what the likelihood that this environment *actually* exists is --- the object and environment are given, we see, smell, touch them. 
 
 A second type of response that's often put forward to this notion that 'we
 are not smart enough for our age' goes something like "*No, we are smart
 enough, we have the tools, and this is exactly how you solve it, this is the
 optimal solution to the problem*." While the first response defers to
 expertise, which, paradoxically, doesn't exclude experts themselves who
-actually defer to their own believed expertise, the second response often
+actually defer to their own expertise, the second response often
 assumes the position of the expert themselves, and defers to specific
 techniques and technologies. According to Gerd, two common approaches are
 encountered; a) newer is better, and b) optimisation with more information. In
 the 'newer is better' approach, the solution to a problem is sought by finding
-the most sophisticated and thus typically newest method of answering it. 
+the most sophisticated and thus typically newest method of answering it. Here sophistication is linked to recency, and recency to effectiveness. 
 
 An example; acute vestibular syndrome typically manifests itself with dizziness,
 nausea and vomiting. When a patient enters the ER, doctors need to *quickly*
@@ -142,13 +143,12 @@ minutes and costs over $1000, or, as skilled doctors had done for decades,
 undertake a bedside exam known as HINTS. HINTS is a quick manual evaluation
 where eye tracking and visual responsiveness is used as a reliable proxy for
 whether the patient has this syndrome. In a study of 101 high-risk patients
-with acute vestibular syndrome, diagnosis was mode with both an MRI and with
-the HINTS exam. While MRI missed strokes in 8 out of 76 patients, the HINTS
+with acute vestibular syndrome, diagnosis was mode with both an MRI and the HINTS exam. While MRI missed strokes in 8 out of 76 patients, the HINTS
 examination caught all correctly and did not miss one. The exam caused one
 false alarm amongst the patients without stroke. In total, the HINTS exam was
 far quicker, far cheaper, far more comfortable for the patients, and most
 importantly, it was in fact more accurate than the multimillion dollar MRI
-device. To bang the drum once more, this is one of Gerd's most committed
+device. To bang the drum once more, as this is one of Gerd's most committed
 points; there are methods which are fast, frugal, relying on minimal
 information, yet, when compared to shinier methods, actually outperform them.  
 
@@ -166,7 +166,7 @@ problem, demonstrating that there is an *optimal* way to allocate ones funds
 peculiar, is that when asked about his investment retirement strategy,
 Markowitz decided to use a simple rule of thumb, the 1/N method. Split your
 investments equally. Love all your children the same. When asked why he didn't
-use his Nobel method, he replied by saying he didn't want to be embarrassed if
+use his Nobel method, he replied by saying that he didn't want to be embarrassed if
 the stock market acted differently than to what he expected! Why the caution
 from the one who outlined an optimal strategy? When 1/N was compared against
 Markowitz's own, and a dozen other complex methods in seven real world
@@ -181,14 +181,14 @@ satisfaction and find the *best* item on the menu for us? Let's go pursuing
 this optimal solution, off we go, creating a decision matrix from all the
 items, assigning scores to each item, then calculating a maximum pleasure
 score for the one we should choose. Or... should we order all the items and
-taste eat one slightly? Well, perhaps now, in the realm of LLMs, perhaps such
+taste eat one fractionally? Well, perhaps now, in the realm of LLMs, such
 data compression is possible, so we pull our phone out and ask our chatbot. I
 hope it's not surprising to say that all these methods are frankly a bit
 ludicrous, no? Even pulling out our phone and trawling the chat engine has a
 smell of the pathetic to it. The quickest, and likely most effective solution,
 is just asking the waiter what the crowd favorites are, and choosing amongst
 these. Assuming we're at a respectable establishment that isn't trying to sell
-you their almost-off steaks, you're likely to be happy. I like this example as
+you their almost-off steaks, you're likely to leave happy. I like this example as
 it magnifies certain core restrictions, and limits on our everyday life --- time is
 not infinite, computing power is not infinite, wealth is not infinite, we cannot sample infinitely.
 Effective decision making is both accurate, that is, get's close to the correct
@@ -200,12 +200,12 @@ we'd be back to square one.
 
 This quest for optimality, and this bias for optimisation as a default problem
 solving method, has additional pertinence in the present moment, where AI hype
-is ballooning expectations on many facets of our lives. It is often believed
+is ballooning expectations in many facets of our lives. It is often believed
 that answers to a problem are all found at the end of a very serious
 calculation, with shortcomings stemming from inadequate data, rather than
 misguided method. Here we have manifested an insatiable appetite: more
 compute, more parameters, more data, more electricity. One would be led to the
-thought that human mind was a 200sq metre data center. Let's not charter into the worlds where optimal solutions may not be computable at all. A moments reflection follows thereafter. 
+thought that the human mind was a 200sq metre data center. Let's not charter into the worlds where optimal solutions may not be computable at all. A moments reflection follows thereafter. 
 
 Gerd, in *Risk Savvy* has distilled the importance of understanding ones
 domain, and viewing it in much the same way as an environment straight
@@ -216,17 +216,13 @@ natural problems, and well, time moves forwards, and we need new strategies to a
 
 Gerd might say, we are NOT smart enough, but we can be savvy enough!
 
-*No doubt this has implications for democracy, how important it is to wrestle
-the power from those who believe us best managed by small groups of elites -
-the information from a group can approach the correct answer better (Galton pig
-weighing) - the elitist Galton. - the topic of another post*
-
+*No doubt, this has implications for democracy. To wrestle the power from those who believe us best managed by small groups of elites, hereditary or otherwise. An illustrative example being Galton's ox weighing[^8] - maybe the topic of another scribble.*
 
 [^1]: Gigerenzer, Gerd, and Ulrich Hoffrage. "How to improve Bayesian reasoning without instruction: frequency formats." *Psychological review* 102.4 (1995): 684.
 [^2]: Gigerenzer, Gerd, and Ulrich Hoffrage. "Overcoming difficulties in Bayesian reasoning: a reply to Lewis and Keren (1999) and Mellers and McGraw (1999)." (1999): 425.
 [^3]: Hoffrage, Ulrich, et al. "Natural frequencies improve Bayesian reasoning in simple and complex inference tasks." *Frontiers in psychology* 6 (2015): 1473.
 [^4]: Zhu, Liqi, and Gerd Gigerenzer. "Children can solve Bayesian problems: The role of representation in mental computation." *Cognition* 98.3 (2006): 287-308.
-[^5]: reference risk savvy book
-[^6]: reference other study about HINTS
-[^7]: Victor DeMiguel, Lorenzo Garlappi, Raman Uppal, Optimal Versus Naive Diversification: How Inefficient is the 1/N Portfolio Strategy?, The Review of Financial Studies, Volume 22, Issue 5, May 2009, Pages 1915–1953, https://doi.org/10.1093/rfs/hhm075
-
+[^5]: Gigerenzer, Gerd. *Risk Savvy: How to Make Good Decisions.* (2014).
+[^6]: Kattah, J. C., Talkad, A. V., Wang, D. Z., Hsieh, Y. H., & Newman-Toker, D. E. (2009). HINTS to diagnose stroke in the acute vestibular syndrome: Three-step bedside oculomotor examination more sensitive than early MRI diffusion-weighted imaging. *Stroke; a Journal of Cerebral Circulation*, 40(11), 3504–3510.
+[^7]: Victor DeMiguel, Lorenzo Garlappi, Raman Uppal, Optimal Versus Naive Diversification: How Inefficient is the 1/N Portfolio Strategy?, *The Review of Financial Studies*, Volume 22, Issue 5, May 2009, Pages 1915–1953, https://doi.org/10.1093/rfs/hhm075
+[^8]: https://wiki2.org/en/Wisdom_of_the_crowd+Newton
