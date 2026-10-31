@@ -209,4 +209,4 @@ Remarkable.
 
 When all is said and done, living underground, he does recognize that despite the past, self affirmation is possible, he IS himself. The work is tortuous and rattling, though still one of hope.
 
-{{< figure src="./image.jpeg" title="Invisible Man" width="570" height="600" >}}
+{{< figure src="../image.jpeg" title="Invisible Man" width="570" height="600" >}}
